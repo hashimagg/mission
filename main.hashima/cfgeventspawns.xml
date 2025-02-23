@@ -73,18 +73,18 @@
     </event>
 
     <event name="StaticAirplaneCrate_1">
-		<zone smin="0" smax="0" dmin="0" dmax="0" r="0" />
+        <zone smin="0" smax="0" dmin="0" dmax="0" r="0" />
 
-		<!-- StaticObj_Misc_SupplyBox1_DE  -->
+        <!-- StaticObj_Misc_SupplyBox1_DE  -->
 
         <pos x="650.235229" z="4688.486328" y="46.200000" a="46.899487" />
         <pos x="468.422882" z="4425.892578" y="46.200000" a="46.899487" />
-	</event>
+    </event>
 
     <event name="StaticAirplaneCrate_2">
-		<zone smin="0" smax="0" dmin="0" dmax="0" r="0" />
+        <zone smin="0" smax="0" dmin="0" dmax="0" r="0" />
 
-		<!-- StaticObj_Misc_SupplyBox2_DE  -->
+        <!-- StaticObj_Misc_SupplyBox2_DE  -->
 
         <pos x="688.673706" z="4653.554688" y="46.470000" a="17.614708" />
         <pos x="435.851776" z="4465.649902" y="46.470000" a="46.543350" />
@@ -96,7 +96,7 @@
         <pos x="717.215515" z="4430.165527" y="68.030000" a="46.543350" />
         <pos x="675.066528" z="4422.031250" y="87.200000" a="46.543350" />
 
-		<!-- StaticObj_Misc_SupplyBox3_DE  -->
+        <!-- StaticObj_Misc_SupplyBox3_DE  -->
 
         <pos x="651.350708" z="4684.621582" y="46.470000" a="0.000000" />
         <pos x="434.643860" z="4462.865723" y="46.470000" a="0.000000" />
@@ -109,7 +109,7 @@
         <pos x="700.547180" z="4447.160156" y="87.200000" a="31.531130" />
         <pos x="699.034729" z="4445.696289" y="87.200000" a="43.803886" />
         <pos x="673.774475" z="4420.399414" y="87.200000" a="0.000000" />
-	</event>
+    </event>
 
     <event name="TrajectoryApple" />
     <event name="TrajectoryCanina" />

@@ -7,7 +7,7 @@ class CustomMission : MissionServer
     override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
     {
         Entity playerEnt;
-        playerEnt = GetGame().CreatePlayer(identity, characterName, Vector(2560, 0, 2560), 0, "NONE"); //Creates random player
+        playerEnt = GetGame().CreatePlayer(identity, characterName, Vector(2560, 0, 2560), 0, "NONE");
         Class.CastTo(m_player, playerEnt);
 
         GetGame().SelectPlayer(identity, m_player);
