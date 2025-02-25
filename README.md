@@ -126,9 +126,10 @@ profiles/
 
 **[Download files (.zip) 🡥](https://github.com/hashimagg/mission/archive/refs/heads/main.zip)**
 
-**[Download areaflags.map 🡥](https://github.com/hashimagg/mission/raw/refs/heads/main/main.hashima/areaflags.map)**
+**[Download areaflags.map 🡥](https://github.com/hashimagg/mission/releases/latest/download/areaflags.map)**
 
 <small>Replace the areaflags.map inside `main.hashima`</small>
+<small>Version specific areaflag.map can be found on the [releases](https://github.com/jsirianni/mission/releases) page.</small>
 
 ## Server Setup
 
