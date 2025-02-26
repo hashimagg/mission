@@ -1524,6 +1524,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Farm" />
+        <usage name="Village" />
     </type>
     <type name="WoodAxe">
         <nominal>12</nominal>
