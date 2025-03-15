@@ -6,10 +6,10 @@
     ╚════════════════════╝
 -->
     <type name="CCS_Hashima_Beer_Asahi">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19,10 +19,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Chroa_1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -32,10 +32,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Chroa_2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -45,10 +45,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Fujizakura_1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -58,10 +58,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Fujizakura_2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -71,10 +71,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Fujizakura_3">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -84,10 +84,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Fujizakura_4">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -97,10 +97,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Fujizakura_5">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -110,10 +110,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Hazy">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -123,10 +123,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Hida_1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -136,10 +136,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Hida_2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -149,10 +149,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Kamakura">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -162,10 +162,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Kujukuri_1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -175,10 +175,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Kujukuri_2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -188,10 +188,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Kirin">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -201,10 +201,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Minoh">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -214,10 +214,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Sapporo">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -227,10 +227,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Shonan_1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -240,10 +240,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Shonan_2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -253,10 +253,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Beer_Toyoda">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

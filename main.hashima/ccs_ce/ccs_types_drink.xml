@@ -6,10 +6,10 @@
     ╚═════════════════════╝
 -->
     <type name="CCS_Hashima_Drink_Fanta">
-        <nominal>12</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19,11 +19,21 @@
         <usage name="Village" />
         <usage name="School" />
     </type>
-    <type name="CCS_Hashima_Drink_Suntory">
-        <nominal>12</nominal>
-        <lifetime>14400</lifetime>
+    <type name="CCS_Hashima_Drink_Sake">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="CCS_Hashima_Drink_Suntory">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -35,7 +45,7 @@
     </type>
     <type name="CCS_Hashima_Drink_Water">
         <nominal>15</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>20</quantmin>

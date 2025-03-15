@@ -56,6 +56,7 @@ main.hashima/
 │   ├── ccs_types_event.xml
 │   ├── ccs_types_jar.xml
 │   ├── ccs_types_medical.xml
+│   ├── ccs_types_seasonal.xml
 │   ├── ccs_types_snack.xml
 │   ├── ccs_types_tool.xml
 │   ├── ccs_types_weapon.xml
@@ -78,6 +79,7 @@ main.hashima/
 │   ├── dz_types_clothing.xml
 │   ├── dz_types_event.xml
 │   ├── dz_types_food.xml
+│   ├── dz_types_seasonal.xml
 │   ├── dz_types_tool.xml
 │   └── dz_types_weapon.xml
 ├── env/
@@ -141,7 +143,7 @@ profiles/
 #### Required Server Mod
 
 **[SpawnerBubaku 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670)**
-Follow the instructions on Steam Workkshop.
+Follow the instructions on Steam Workshop.
 
 Replace the file `SpawnerBubaku.json`.
 

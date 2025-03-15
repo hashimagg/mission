@@ -6,10 +6,10 @@
     ╚═══════════════════╝
 -->
     <type name="CCS_Hashima_Bag_ChildBag_Blue">
-        <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20,10 +20,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Bag_ChildBag_Green">
-        <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -34,10 +34,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Bag_ChildBag_Red">
-        <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -48,10 +48,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Black">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -62,10 +62,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Blue">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -76,10 +76,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Green">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -90,10 +90,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Orange">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -104,10 +104,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Red">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -118,10 +118,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Yellow">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -132,10 +132,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Blue">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -148,10 +148,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Green">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -164,10 +164,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Pink">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -180,10 +180,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Red">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -196,10 +196,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Yellow">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -211,11 +211,59 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
-    <type name="CCS_Hashima_Bag_MountainBag_Blue">
-        <nominal>4</nominal>
-        <lifetime>28800</lifetime>
+    <type name="CCS_Hashima_Bag_HipPack_Black">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+    </type>
+    <type name="CCS_Hashima_Bag_HipPack_Green">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Bag_HipPack_Red">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+    </type>
+    <type name="CCS_Hashima_Bag_HipPack_Party">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Lunapark" />
+    </type>
+    <type name="CCS_Hashima_Bag_MountainBag_Blue">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -228,10 +276,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Green">
-        <nominal>4</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -244,10 +292,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Orange">
-        <nominal>4</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -260,10 +308,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Red">
-        <nominal>4</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -276,10 +324,10 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Bag_WaterproofBag_Green">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -289,10 +337,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CCS_Hashima_Bag_WaterproofBag_Orange">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -302,10 +350,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CCS_Hashima_Bag_WaterproofBag_Yellow">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

@@ -7,7 +7,7 @@
 -->
     <type name="CCS_RokuohShaType89_Ammo">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -23,7 +23,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_12_Buck">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -34,13 +34,14 @@
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Farm" />
+        <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
     <type name="CCS_Hashima_Ammobox_12_Rubber">
         <nominal>4</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -53,7 +54,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_12_Slug">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -64,13 +65,14 @@
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Farm" />
+        <usage name="Town" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
     <type name="CCS_Hashima_Ammobox_22_Normal">
         <nominal>20</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>18</min>
         <quantmin>-1</quantmin>
@@ -83,7 +85,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_308_Normal">
         <nominal>13</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>9</min>
         <quantmin>-1</quantmin>
@@ -99,7 +101,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_308_Tracer">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -113,7 +115,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_357_Normal">
         <nominal>20</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
@@ -127,7 +129,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_380_Normal">
         <nominal>15</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
@@ -141,7 +143,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_45_Normal">
         <nominal>20</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
@@ -153,7 +155,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_545x39_Normal">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -168,7 +170,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_545x39_Tracer">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -182,7 +184,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_556x45_Normal">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>11</min>
         <quantmin>-1</quantmin>
@@ -197,7 +199,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_556x45_Tracer">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -211,7 +213,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_762x39_Normal">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>11</min>
         <quantmin>-1</quantmin>
@@ -226,9 +228,9 @@
     </type>
     <type name="CCS_Hashima_Ammobox_762x39_Tracer">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -241,7 +243,7 @@
     </type>
     <type name="CCS_Hashima_Ammobox_762x54_Normal">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>12</min>
         <quantmin>-1</quantmin>
@@ -257,9 +259,9 @@
     </type>
     <type name="CCS_Hashima_Ammobox_762x54_Tracer">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -270,8 +272,8 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Ammobox_9x19_Normal">
-        <nominal>30</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>25</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -283,8 +285,8 @@
         <usage name="Police" />
     </type>
     <type name="CCS_Hashima_Ammobox_9x39_Normal">
-        <nominal>10</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>15</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
@@ -295,10 +297,10 @@
         <usage name="Military" />
     </type>
     <type name="CCS_Hashima_Ammobox_9x39_AP">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>10</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

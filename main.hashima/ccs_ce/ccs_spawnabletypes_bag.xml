@@ -67,6 +67,30 @@
         <cargo preset="mixVillage" />
     </type>
 
+    <type name="CCS_Hashima_Bag_HipPack_Black">
+        <cargo chance="0.6">
+            <item name="CCS_Hashima_Snack_Bar_2" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Bag_HipPack_Green">
+        <cargo chance="0.6">
+            <item name="CCS_Hashima_Snack_Bar_1" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Bag_HipPack_Party">
+        <cargo chance="0.02">
+            <item name="Derringer_Pink" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Bag_HipPack_Red">
+        <cargo chance="0.6">
+            <item name="CCS_Hashima_Medical_Bandage" />
+        </cargo>
+        <cargo chance="0.6">
+            <item name="CCS_Hashima_Medical_Vitamin_Bottle" />
+        </cargo>
+    </type>
+
     <type name="CCS_Hashima_Bag_MountainBag_Blue">
         <cargo preset="foodVillage" />
         <cargo preset="mixVillage" />

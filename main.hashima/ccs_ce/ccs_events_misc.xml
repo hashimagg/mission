@@ -5,21 +5,4 @@
     ║ CCS - Events - Misc ║
     ╚═════════════════════╝
 -->
-    <!-- <event name="Static_CCS_Capsule_Vending_Machine">
-        <nominal>5</nominal>
-        <min>5</min>
-        <max>5</max>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>1</distanceradius>
-        <cleanupradius>1000</cleanupradius>
-        <flags deletable="1" init_random="0" remove_damaged="0" />
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="Land_CCS_Capsule_Vending_Machine" />
-        </children>
-    </event> -->
 </events>

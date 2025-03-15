@@ -6,10 +6,10 @@
     ╚═════════════════════╝
 -->
     <type name="CCS_Hashima_Snack_Bar_1">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22,10 +22,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Bar_2">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -37,10 +37,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Bar_3">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -52,10 +52,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Bar_4">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -65,10 +65,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Snack_Calbee">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -78,10 +78,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Snack_Cereal_1">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>1</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -91,10 +91,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Snack_Cereal_2">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>1</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -105,10 +105,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Cereal_3">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>1</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -119,10 +119,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Doritos">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -133,10 +133,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Kameda">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -147,10 +147,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Koikeya">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -161,10 +161,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Kurakon">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -175,10 +175,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Pea">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -189,10 +189,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Powdered_Milk">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -204,10 +204,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Rice">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -219,10 +219,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Snack_Sanko_Parinko">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -234,7 +234,7 @@
     </type>
     <type name="CCS_Hashima_Snack_SeedPack_Pepper">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -246,7 +246,7 @@
     </type>
     <type name="CCS_Hashima_Snack_SeedPack_Pumpkin">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -258,7 +258,7 @@
     </type>
     <type name="CCS_Hashima_Snack_SeedPack_Tomato">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -270,7 +270,7 @@
     </type>
     <type name="CCS_Hashima_Snack_SeedPack_Zucchini">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>

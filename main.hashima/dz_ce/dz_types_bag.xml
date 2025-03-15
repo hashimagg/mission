@@ -6,9 +6,9 @@
     ╚══════════════════╝
 -->
     <type name="AliceBag_Black">
-        <nominal>2</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -16,14 +16,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
-        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="AliceBag_Camo">
-        <nominal>2</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -31,14 +30,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
-        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="AliceBag_Green">
-        <nominal>2</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -46,13 +44,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Military" />
-        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="AssaultBag_Black">
         <nominal>2</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -64,7 +61,7 @@
     </type>
     <type name="AssaultBag_Green">
         <nominal>2</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -76,7 +73,7 @@
     </type>
     <type name="AssaultBag_Ttsko">
         <nominal>2</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -88,7 +85,7 @@
     </type>
     <type name="BurlapSack">
         <nominal>12</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
@@ -100,30 +97,16 @@
         <usage name="Farm" />
     </type>
     <type name="BurlapSackCover">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="tools" />
     </type>
     <type name="BurlapStrip">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="tools" />
     </type>
     <type name="CanvasBag_Medical">
         <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -134,10 +117,10 @@
         <usage name="Medic" />
     </type>
     <type name="CanvasBag_Olive">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -147,20 +130,13 @@
         <usage name="Village" />
     </type>
     <type name="CourierBag">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="CoyoteBag_Brown">
         <nominal>1</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -171,8 +147,8 @@
     </type>
     <type name="CoyoteBag_Green">
         <nominal>1</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -182,8 +158,8 @@
         <usage name="Military" />
     </type>
     <type name="DuffelBagSmall_Camo">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -194,8 +170,8 @@
         <usage name="Military" />
     </type>
     <type name="DuffelBagSmall_Green">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -208,7 +184,7 @@
     </type>
     <type name="DuffelBagSmall_Medical">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -219,81 +195,16 @@
         <usage name="Medic" />
     </type>
     <type name="FurCourierBag">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="FurImprovisedBag">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
-    </type>
-    <type name="HipPack_Black">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="HipPack_Green">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="HipPack_Medical">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Medic" />
-    </type>
-    <type name="HipPack_Party">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Town" />
-        <usage name="Village" />
     </type>
     <type name="HuntingBag">
         <nominal>2</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -304,78 +215,31 @@
         <usage name="Hunting" />
         <value name="Tier2" />
     </type>
-    <type name="HuntingBag_Hannah">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="containers" />
-        <usage name="Hunting" />
-    </type>
     <type name="ImprovisedBag">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="LeatherSack_Beige">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="LeatherSack_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="LeatherSack_Brown">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="LeatherSack_Natural">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="containers" />
     </type>
     <type name="SmershBag">
-        <nominal>10</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -384,10 +248,10 @@
         <usage name="Military" />
     </type>
     <type name="Slingbag_Black">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -397,10 +261,10 @@
         <usage name="Village" />
     </type>
     <type name="Slingbag_Brown">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -410,10 +274,10 @@
         <usage name="Village" />
     </type>
     <type name="Slingbag_Gray">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -423,8 +287,8 @@
         <usage name="Village" />
     </type>
     <type name="TortillaBag">
-        <nominal>6</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>2</min>
         <quantmin>-1</quantmin>

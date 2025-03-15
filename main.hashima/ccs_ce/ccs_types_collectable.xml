@@ -7,7 +7,7 @@
 -->
     <type name="CCS_Coin_Vending_Machine">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -22,7 +22,7 @@
     </type>
     <type name="CCS_Keychain_Audiola">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37,7 +37,7 @@
     </type>
     <type name="CCS_Keychain_Banana_Bomb">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -52,7 +52,7 @@
     </type>
     <type name="CCS_Keychain_Kit_Kokeshi_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -67,7 +67,7 @@
     </type>
     <type name="CCS_Keychain_Kit_Kokeshi_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -82,7 +82,7 @@
     </type>
     <type name="CCS_Keychain_Kit_Kokeshi_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -97,7 +97,7 @@
     </type>
     <type name="CCS_Keychain_Kokeshi">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -112,7 +112,7 @@
     </type>
     <type name="CCS_Keychain_Nintendo_64_Cart">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -127,7 +127,7 @@
     </type>
     <type name="CCS_Keychain_Poke_Ball">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -142,7 +142,7 @@
     </type>
     <type name="CCS_Keychain_Question_Mark_Block">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -157,7 +157,7 @@
     </type>
     <type name="CCS_Keychain_Twin_Peaks">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -172,7 +172,7 @@
     </type>
     <type name="CCS_Tamagotchi_OXO">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -187,7 +187,7 @@
     </type>
     <type name="CCS_Tamagotchi_Sailor_Moon">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

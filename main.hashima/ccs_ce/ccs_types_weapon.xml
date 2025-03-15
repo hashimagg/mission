@@ -7,8 +7,8 @@
 -->
     <type name="CCS_Minebea_PM9">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <lifetime>5400</lifetime>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -21,8 +21,8 @@
     </type>
     <type name="CCS_Minebea_PM9_Mag">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <lifetime>5400</lifetime>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -35,8 +35,8 @@
     </type>
     <type name="CCS_Grenade_Type_91">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -49,9 +49,22 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_Hattori_Hanzo">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>2</nominal>
+        <lifetime>5400</lifetime>
         <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier3" />
+    </type>
+    <type name="CCS_HowaType20">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -59,55 +72,38 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier2" />
-        <value name="Tier3" />
-    </type>
-    <type name="CCS_HowaType20">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="weapons" />
-        <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="CCS_HowaType20_Grip">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
+        <nominal>0</nominal>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="CCS_HowaType20_Handguard">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
+        <nominal>0</nominal>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="CCS_HowaType20_Mag">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <lifetime>5400</lifetime>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -120,8 +116,8 @@
     </type>
     <type name="CCS_HowaType20_Optic">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <lifetime>5400</lifetime>
+        <restock>600</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -133,67 +129,38 @@
         <value name="Tier4" />
     </type>
     <type name="CCS_HowaType20_Stock">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
+        <nominal>0</nominal>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="CCS_Improvised_Grenade_Launcher">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="weapons" />
     </type>
     <type name="CCS_Improvised_Grenade_Launcher_Stage1">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="weapons" />
     </type>
     <type name="CCS_Improvised_Grenade_Launcher_Stage2">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="weapons" />
     </type>
     <type name="CCS_Improvised_Grenade_Launcher_Stage3">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="weapons" />
     </type>
     <type name="CCS_RokuohShaType89">
         <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -204,7 +171,7 @@
     </type>
     <type name="CCS_RokuohShaType89_Mag">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -216,8 +183,8 @@
     <type name="CCS_RokuohShaType89_Mag_Case">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <restock>900</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -225,9 +192,20 @@
         <usage name="CCS_RokuohShaType89_Mag_Case" />
         <tag name="CCS_RokuohShaType89_Mag_Case" />
     </type>
+    <type name="CCS_RokuohShaType89_Mag_Pot">
+        <nominal>0</nominal>
+        <lifetime>5400</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+    </type>
     <type name="CCS_RokuohShaType89_Optic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

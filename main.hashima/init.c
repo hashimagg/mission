@@ -298,7 +298,6 @@ class CustomMission : MissionServer
             "700.515 43.1604 836.105",
             "730.377 18.7271 1182.48",
             "792.554 16.3638 1221.54",
-
             "682.117 13.7361 2118.61",
             "645.213 12.8687 1861.39",
             "902.234 5.21478 2436.08",
@@ -315,7 +314,7 @@ class CustomMission : MissionServer
 
         SyncRespawnModeInfo(identity);
 
-        if ( ProcessLoginData(ctx) && (m_RespawnMode == GameConstants.RESPAWN_MODE_CUSTOM) && !GetGame().GetMenuDefaultCharacterData(false).IsRandomCharacterForced() )
+        if (ProcessLoginData(ctx) && (m_RespawnMode == GameConstants.RESPAWN_MODE_CUSTOM) && !GetGame().GetMenuDefaultCharacterData(false).IsRandomCharacterForced())
         {
             if (GetGame().ListAvailableCharacters().Find(GetGame().GetMenuDefaultCharacterData().GetCharacterType()) > -1)
                 characterType = GetGame().GetMenuDefaultCharacterData().GetCharacterType();

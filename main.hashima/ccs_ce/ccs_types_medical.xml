@@ -7,7 +7,7 @@
 -->
     <type name="CCS_Hashima_Medical_Antidote">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>3600</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -19,10 +19,10 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Bandage">
-        <nominal>40</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>35</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -32,8 +32,8 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Blood_Bag_Empty">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>15</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -45,32 +45,18 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Blood_Bag_Full">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="tools" />
     </type>
     <type name="CCS_Hashima_Medical_Blood_Bag_Full_IV">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="tools" />
     </type>
     <type name="CCS_Hashima_Medical_Blood_Test_Kit">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>8</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -81,9 +67,9 @@
     </type>
     <type name="CCS_Hashima_Medical_Charcoal_Tablets">
         <nominal>20</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -93,10 +79,10 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Chlorine_Tablets">
-        <nominal>40</nominal>
-        <lifetime>28800</lifetime>
-        <restock>1800</restock>
-        <min>30</min>
+        <nominal>20</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -107,10 +93,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Medical_Disinfectant_Alcohol">
-        <nominal>30</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>15</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -121,10 +107,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Medical_Disinfectant_Spray">
-        <nominal>30</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>15</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -136,10 +122,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Medical_Epinephrine">
-        <nominal>30</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>25</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -150,7 +136,7 @@
     </type>
     <type name="CCS_Hashima_Medical_First_Aid_kit">
         <nominal>15</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -162,10 +148,10 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Heat_Pack_1">
-        <nominal>12</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>10</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -175,10 +161,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Medical_Heat_Pack_2">
-        <nominal>12</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>10</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -189,9 +175,9 @@
     </type>
     <type name="CCS_Hashima_Medical_IV_Start_Kit">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -202,9 +188,9 @@
     </type>
     <type name="CCS_Hashima_Medical_Morphine">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -215,9 +201,9 @@
     </type>
     <type name="CCS_Hashima_Medical_Painkiller">
         <nominal>20</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -228,9 +214,9 @@
     </type>
     <type name="CCS_Hashima_Medical_Saline_Bag">
         <nominal>15</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -240,21 +226,14 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Saline_Bag_IV">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="tools" />
     </type>
     <type name="CCS_Hashima_Medical_Tetracycline">
         <nominal>20</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -264,10 +243,10 @@
         <usage name="Medic" />
     </type>
     <type name="CCS_Hashima_Medical_Thermometer_1">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -278,10 +257,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Medical_Thermometer_2">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -292,10 +271,10 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Medical_Vitamin_Bottle">
-        <nominal>35</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>20</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>5</quantmin>
         <quantmax>20</quantmax>
         <cost>100</cost>

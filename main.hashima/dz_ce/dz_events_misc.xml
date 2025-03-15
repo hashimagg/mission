@@ -181,9 +181,9 @@
         <max>2</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <saferadius>500</saferadius>
+        <saferadius>5</saferadius>
         <distanceradius>1</distanceradius>
-        <cleanupradius>500</cleanupradius>
+        <cleanupradius>5</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="0" />
         <position>fixed</position>
         <limit>child</limit>
@@ -198,9 +198,9 @@
         <max>7</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <saferadius>500</saferadius>
+        <saferadius>5</saferadius>
         <distanceradius>1</distanceradius>
-        <cleanupradius>500</cleanupradius>
+        <cleanupradius>5</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="0" />
         <position>fixed</position>
         <limit>child</limit>
@@ -213,12 +213,12 @@
     <event name="StaticHeliCrash">
         <nominal>1</nominal>
         <min>1</min>
-        <max>2</max>
-        <lifetime>2100</lifetime>
+        <max>1</max>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>500</cleanupradius>
+        <saferadius>50</saferadius>
+        <distanceradius>250</distanceradius>
+        <cleanupradius>50</cleanupradius>
         <secondary>InfectedArmyHeavy</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0" />
         <position>fixed</position>

@@ -679,10 +679,10 @@
 -->
     <type name="PlateCarrierVest_Black">
         <damage min="0.1" max="0.6" />
-        <attachments chance="0.85">
+        <attachments chance="0.20">
             <item name="PlateCarrierHolster_Black" chance="1.00" />
         </attachments>
-        <attachments chance="0.85">
+        <attachments chance="0.20">
             <item name="PlateCarrierPouches_Black" chance="1.00" />
         </attachments>
     </type>

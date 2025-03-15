@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
 <!--
-    ╔════════════════════════════════════════════╗
-    ║ DZ - SpawnableTypes - Tool - Base Building ║
-    ╚════════════════════════════════════════════╝
--->
-    <type name="Barrel_Blue">
-        <hoarder />
-    </type>
-    <type name="Barrel_Green">
-        <hoarder />
-    </type>
-    <type name="Barrel_Red">
-        <hoarder />
-    </type>
-    <type name="Barrel_Yellow">
-        <hoarder />
-    </type>
-<!--
     ╔══════════════════════════════════════════════════════════╗
     ║ DZ - SpawnableTypes - Tool - Eletronics & Lights & Fires ║
     ╚══════════════════════════════════════════════════════════╝
@@ -32,8 +15,6 @@
             <item name="CCS_Hashima_Tool_9V_Battery" chance="1.00" />
         </attachments>
     </type>
-    <type name="SparkPlug">
-    </type>
 <!--
     ╔══════════════════════════════════════════════════════════╗
     ║ DZ - SpawnableTypes - Tool - Gardening & Cooking & Traps ║
@@ -45,39 +26,12 @@
     <type name="Stone">
         <damage min="0.1" max="0.1" />
     </type>
-    <type name="UndergroundStash">
-        <hoarder />
-    </type>
 <!--
     ╔═══════════════════════════════════════════════╗
     ║ DZ - SpawnableTypes - Tool - Shelters & Tents ║
     ╚═══════════════════════════════════════════════╝
 -->
-    <type name="CarTent">
-        <hoarder />
-    </type>
-    <type name="LargeTent">
-        <hoarder />
-    </type>
-    <type name="MediumTent">
-        <hoarder />
-    </type>
-    <type name="MediumTent_Green">
-        <hoarder />
-    </type>
-    <type name="MediumTent_Orange">
-        <hoarder />
-    </type>
-    <type name="PartyTent">
-        <hoarder />
-    </type>
-    <type name="PartyTent_Blue">
-        <hoarder />
-    </type>
-    <type name="PartyTent_Brown">
-        <hoarder />
-    </type>
-    <type name="PartyTent_Lunapark">
+    <type name="UndergroundStash">
         <hoarder />
     </type>
 </spawnabletypes>

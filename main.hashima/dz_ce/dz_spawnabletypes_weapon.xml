@@ -431,14 +431,8 @@
     <type name="AugOptic">
         <damage min="0.0" max="0.0" />
     </type>
-    <type name="KazuarOptic">
-        <damage min="0.0" max="0.32" />
-    </type>
     <type name="SSG82Optic">
         <damage min="0.0" max="0.0" />
-    </type>
-    <type name="StarlightOptic">
-        <damage min="0.0" max="0.32" />
     </type>
 <!--
     ╔═══════════════════════════════════════════╗

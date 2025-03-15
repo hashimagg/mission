@@ -9,14 +9,11 @@
     </type>
     <type name="CCS_Hashima_Tool_Canteen">
     </type>
-    <type name="CCS_Hashima_Tool_Car_Battery">
-        <damage min="0.0" max="0.35" />
+    <type name="CCS_Hashima_Tool_Filtering_Bottle">
+        <damage min="0.1" max="0.1" />
     </type>
     <type name="CCS_Hashima_Tool_Protective_Case">
         <hoarder />
-    </type>
-    <type name="CCS_Hashima_Tool_Truck_Battery">
-        <damage min="0.0" max="0.35" />
     </type>
     <type name="CCS_Hashima_Tool_Teddy_Brown">
         <cargo chance="0.00">

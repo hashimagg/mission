@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔════════════════════╗
-    ║ DZ - Types - Event ║
-    ╚════════════════════╝
+    ╔═══════════════════════╗
+    ║ DZ - Types - Seasonal ║
+    ╚═══════════════════════╝
 -->
-    <type name="ContaminatedArea_Dynamic">
+    <type name="MorozkoHat">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>
-    <type name="StaticObj_Misc_SupplyBox1_DE">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
-    <type name="StaticObj_Misc_SupplyBox2_DE">
+    <type name="WoolGlovesFingerless_ChristmasBlue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
-    <type name="StaticObj_Misc_SupplyBox3_DE">
+    <type name="WoolGlovesFingerless_ChristmasRed">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
-    <type name="Wreck_Mi8_Crashed">
+    <type name="WoolGloves_ChristmasBlue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
-    <type name="Wreck_UH1Y">
+    <type name="WoolGloves_ChristmasRed">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <usage name="SeasonalEvent" />
     </type>
 </types>

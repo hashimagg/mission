@@ -5,17 +5,17 @@
     ║ DZ - SpawnableTypes - Bag ║
     ╚═══════════════════════════╝
 -->
-    <type name="AssaultBag_Ttsko">
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
-    </type>
     <type name="AssaultBag_Black">
         <cargo preset="mixArmy" />
         <cargo preset="mixArmy" />
         <cargo preset="mixArmy" />
     </type>
     <type name="AssaultBag_Green">
+        <cargo preset="mixArmy" />
+        <cargo preset="mixArmy" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="AssaultBag_Ttsko">
         <cargo preset="mixArmy" />
         <cargo preset="mixArmy" />
         <cargo preset="mixArmy" />
@@ -55,29 +55,6 @@
         <cargo preset="foodArmy" />
         <cargo preset="mixArmy" />
     </type>
-    <type name="HipPack_Black">
-        <cargo chance="0.6">
-            <item name="CCS_Hashima_Snack_Bar_2" />
-        </cargo>
-    </type>
-    <type name="HipPack_Green">
-        <cargo chance="0.6">
-            <item name="CCS_Hashima_Snack_Bar_1" />
-        </cargo>
-    </type>
-    <type name="HipPack_Medical">
-        <cargo chance="0.6">
-            <item name="CCS_Hashima_Medical_Bandage" />
-        </cargo>
-        <cargo chance="0.6">
-            <item name="CCS_Hashima_Medical_Vitamin_Bottle" />
-        </cargo>
-    </type>
-    <type name="HipPack_Party">
-        <cargo chance="0.02">
-            <item name="Derringer_Pink" />
-        </cargo>
-    </type>
     <type name="HuntingBag">
         <cargo preset="foodVillage" />
         <cargo preset="toolsIndustrial" />
@@ -98,22 +75,6 @@
     <type name="SmershBag">
         <cargo preset="foodArmy" />
         <cargo preset="mixArmy" />
-    </type>
-    <type name="TaloonBag_Blue">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
-    </type>
-    <type name="TaloonBag_Green">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
-    </type>
-    <type name="TaloonBag_Orange">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
-    </type>
-    <type name="TaloonBag_Violet">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
     </type>
     <type name="TortillaBag">
         <cargo preset="foodArmy" />

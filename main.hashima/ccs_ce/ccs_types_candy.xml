@@ -6,10 +6,10 @@
     ╚═════════════════════╝
 -->
     <type name="CCS_Hashima_Candy_Chew">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23,10 +23,10 @@
         <value name="Tier3" />
     </type>
     <type name="CCS_Hashima_Candy_Fujiya">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -39,10 +39,10 @@
         <value name="Tier3" />
     </type>
     <type name="CCS_Hashima_Candy_Ginbis">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -55,10 +55,10 @@
         <value name="Tier3" />
     </type>
     <type name="CCS_Hashima_Candy_Peanut">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -71,10 +71,10 @@
         <value name="Tier3" />
     </type>
     <type name="CCS_Hashima_Candy_Super">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

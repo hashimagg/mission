@@ -174,8 +174,8 @@
 
     <type name="CCS_USB">
         <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <lifetime>3600</lifetime>
+        <restock>900</restock>
         <min>1</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
@@ -187,7 +187,7 @@
     <type name="CCS_PID_73">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
@@ -197,9 +197,9 @@
         <tag name="CCS_PID_73" />
     </type>
     <type name="CCS_KeyCard_0">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>1</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
@@ -290,7 +290,7 @@
 
     <type name="CCS_Toilet_Paper">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -306,7 +306,7 @@
 
     <type name="CCS_Hashima_Tool_XXXXXXXOOO_Book">
         <nominal>1</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>50</quantmin>
@@ -318,11 +318,11 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Tool_9V_Battery">
-        <nominal>35</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>30</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>25</min>
-        <quantmin>90</quantmin>
+        <min>20</min>
+        <quantmin>80</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
@@ -333,10 +333,10 @@
         <usage name="Town" />
     </type>
     <type name="CCS_Hashima_Tool_Alarm_Clock_Blue">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -348,10 +348,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Tool_Alarm_Clock_Green">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -363,10 +363,10 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Tool_Alarm_Clock_Red">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -378,22 +378,22 @@
         <usage name="School" />
     </type>
     <type name="CCS_Hashima_Tool_AmmoBox">
-        <nominal>8</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="01" />
         <category name="containers" />
         <usage name="Military" />
     </type>
     <type name="CCS_Hashima_Tool_Battery_Charger">
-        <nominal>5</nominal>
-        <lifetime>604800</lifetime>
-        <restock>360</restock>
-        <min>2</min>
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -403,7 +403,7 @@
     </type>
     <type name="CCS_Hashima_Tool_Canteen">
         <nominal>20</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>10</quantmin>
@@ -413,14 +413,15 @@
         <category name="food" />
         <usage name="Military" />
         <usage name="Hunting" />
+        <usage name="Town" />
         <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="CCS_Hashima_Tool_Car_Battery">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>360</restock>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -430,10 +431,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CCS_Hashima_Tool_Field_Transceiver">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
+        <restock>0</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -443,11 +444,24 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
-    <type name="CCS_Hashima_Tool_Garden_Lime">
-        <nominal>14</nominal>
+    <type name="CCS_Hashima_Tool_Filtering_Bottle">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Medic" />
+        <value name="Tier3" />
+    </type>
+    <type name="CCS_Hashima_Tool_Garden_Lime">
+        <nominal>7</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -456,8 +470,21 @@
         <usage name="Farm" />
     </type>
     <type name="CCS_Hashima_Tool_Gas_Canister_Large">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+    </type>
+    <type name="CCS_Hashima_Tool_Gas_Canister_Medium">
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -468,11 +495,11 @@
         <usage name="Village" />
         <usage name="Hunting" />
     </type>
-    <type name="CCS_Hashima_Tool_Gas_Canister_Medium">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
+    <type name="CCS_Hashima_Tool_Gas_Canister_Small">
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -481,24 +508,67 @@
         <usage name="Village" />
         <usage name="Hunting" />
     </type>
-    <type name="CCS_Hashima_Tool_Gas_Canister_Small">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+    <type name="CCS_Hashima_Tool_Gas_Mask_Filter_Black">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>2</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <usage name="Village" />
-        <usage name="Hunting" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+    </type>
+    <type name="CCS_Hashima_Tool_Gas_Mask_Filter_Green">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+    </type>
+    <type name="CCS_Hashima_Tool_Gas_Mask_Filter_Purple">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+    </type>
+    <type name="CCS_Hashima_Tool_Gas_Mask_Filter_Red">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <tag name="shelves" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
     </type>
     <type name="CCS_Hashima_Tool_Jerrycan">
-        <nominal>10</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -508,10 +578,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CCS_Hashima_Tool_Kitchen_Timer">
-        <nominal>15</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -523,9 +593,9 @@
     </type>
     <type name="CCS_Hashima_Tool_Lighter_1">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -536,9 +606,9 @@
     </type>
     <type name="CCS_Hashima_Tool_Lighter_2">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -549,9 +619,9 @@
     </type>
     <type name="CCS_Hashima_Tool_Lighter_3">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -561,10 +631,10 @@
         <usage name="Town" />
     </type>
     <type name="CCS_Hashima_Tool_Matchbox_1">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -576,10 +646,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Tool_Matchbox_2">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -591,10 +661,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Tool_Matchbox_3">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -606,10 +676,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Tool_Matchbox_4">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -621,10 +691,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Tool_Matchbox_5">
-        <nominal>7</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -636,10 +706,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Tool_Megaphone">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>7</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -651,8 +721,8 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Tool_Orienteering_Compass">
-        <nominal>17</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>15</nominal>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -666,10 +736,10 @@
         <usage name="Hunting" />
     </type>
     <type name="CCS_Hashima_Tool_Protective_Case">
-        <nominal>20</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -679,10 +749,10 @@
         <usage name="Town" />
     </type>
     <type name="CCS_Hashima_Tool_Rope_Box_1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -692,10 +762,10 @@
         <usage name="Farm" />
     </type>
     <type name="CCS_Hashima_Tool_Rope_Box_2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -706,7 +776,7 @@
     </type>
     <type name="CCS_Hashima_Tool_Sewing_Kit">
         <nominal>25</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
@@ -719,8 +789,8 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Tool_Teddy_Brown">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>4</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -733,8 +803,8 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Tool_Teddy_Dark">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>4</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -747,8 +817,8 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Tool_Teddy_Pink">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>4</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -761,8 +831,8 @@
         <usage name="Village" />
     </type>
     <type name="CCS_Hashima_Tool_Teddy_White">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>4</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -776,8 +846,8 @@
     </type>
     <type name="CCS_Hashima_Tool_Truck_Battery">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>360</restock>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -788,7 +858,7 @@
     </type>
     <type name="CCS_Hashima_Tool_Weapon_Cleaning_Kit">
         <nominal>15</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
