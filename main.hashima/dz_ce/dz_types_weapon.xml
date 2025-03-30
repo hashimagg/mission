@@ -2336,7 +2336,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value user="Tier4" />
+        <value name="Tier4" />
     </type>
     <type name="Mag_Scout_5Rnd">
         <nominal>8</nominal>

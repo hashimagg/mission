@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lists>
     <categories>
-        <category name="books" />
         <category name="clothes" />
         <category name="containers" />
         <category name="explosives" />
@@ -31,8 +30,6 @@
         <usage name="Firefighter" />
         <usage name="Hunting" />
         <usage name="Industrial" />
-        <usage name="Labs" />
-        <usage name="Lunapark" />
         <usage name="Medic" />
         <usage name="Military" />
         <usage name="Office" />

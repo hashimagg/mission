@@ -28,7 +28,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <point pos="-2.473662 0.144530 7.112000" range="1" height="1" />
             <point pos="3.148456 0.144530 6.937528" range="1" height="1" />
             <point pos="0.467937 0.144530 7.142344" range="1" height="1" />
@@ -74,7 +73,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <point pos="2.337054 0.520885 5.021032" range="1" height="1" />
             <point pos="4.731116 0.470885 5.114090" range="1" height="1" />
             <point pos="4.687709 0.470886 3.063799" range="1" height="1" />
@@ -105,7 +103,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <point pos="-1.079190 0.470750 1.084259" range="1" height="1" />
             <point pos="0.316383 0.470750 1.120173" range="1" height="1" />
             <point pos="-1.075741 0.470750 -1.223103" range="1" height="1" />
@@ -121,7 +118,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <point pos="2.212936 0.460886 3.677625" range="1" height="1" />
             <point pos="2.199115 0.460885 5.337780" range="1" height="1" />
             <point pos="4.816243 0.460886 5.203312" range="1" height="1" />
@@ -147,7 +143,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <category name="weapons" />
             <point pos="2.711133 0.470722 -1.571685" range="1" height="1" />
             <point pos="5.391028 0.470722 -1.512977" range="1" height="1" />
@@ -347,7 +342,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.750158 -9.386703 -9.339022" range="0.100000" height="0.250000" />
             <point pos="-4.300973 -9.386703 -9.445422" range="0.100000" height="0.250000" />
@@ -473,7 +467,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-12.431043 -2.956650 14.962958" range="0.134375" height="0.220230" />
             <point pos="-12.901469 -2.776123 -13.850192" range="0.134375" height="0.335938" />
@@ -562,7 +555,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-14.361087 0.197235 -16.868750" range="0.100000" height="0.250000" />
             <point pos="16.915318 0.572235 9.447092" range="0.100000" height="0.250000" />
@@ -704,7 +696,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="14.761031 0.952240 1.613541" range="0.100000" height="0.250000" />
             <point pos="-8.209809 0.952240 9.374717" range="0.100000" height="0.250000" />
@@ -954,7 +945,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.410034 0.061071 -0.381958" range="0.271875" height="0.370001" />
             <point pos="1.480103 -0.438929 -1.010254" range="0.203125" height="0.370001" />
@@ -986,7 +976,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.018555 -0.975271 -0.421265" range="0.232666" height="0.581665" />
             <point pos="1.390625 -0.537098 1.429443" range="0.175293" height="0.421560" />
@@ -1014,7 +1003,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.240357 -0.034428 -0.335449" range="0.443750" height="1.037653" />
             <point pos="2.440064 0.081358 0.880859" range="0.271875" height="0.370001" />
@@ -1045,7 +1033,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.491577 -0.867472 1.526733" range="0.193091" height="0.482726" />
             <point pos="1.248291 -0.867472 1.212280" range="0.180420" height="0.451050" />
@@ -1079,7 +1066,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.930054 -0.975271 -0.472412" range="0.211914" height="0.529785" />
             <point pos="2.184692 -0.975271 -1.537598" range="0.361131" height="0.950317" />
@@ -1109,7 +1095,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.439087 -0.418642 1.355957" range="0.237500" height="0.370001" />
             <point pos="2.435913 -0.918642 0.893310" range="0.271875" height="0.370001" />
@@ -1142,7 +1127,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.106847 0.221958 -1.770436" range="0.178955" height="0.447388" />
             <point pos="-1.972322 0.560379 -1.000611" range="0.237500" height="0.593750" />
@@ -1162,7 +1146,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-1.050297 -0.814950 0.746482" range="0.821875" height="2.000566" />
@@ -1191,7 +1174,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.926902 -1.023117 0.975685" range="0.100000" height="0.250000" />
             <point pos="4.318610 -0.652992 2.195926" range="0.134375" height="0.167168" />
@@ -1231,7 +1213,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.908622 -0.901581 -0.775137" range="0.182814" height="0.457035" />
             <point pos="4.241247 -1.516098 1.200810" range="0.190430" height="0.295845" />
@@ -1275,7 +1256,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.243792 -0.651871 2.237436" range="0.134375" height="0.167175" />
             <point pos="4.200404 -0.353584 2.914778" range="0.158448" height="0.166000" />
@@ -1368,7 +1348,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="ground" />
             <tag name="floor" />
@@ -1390,7 +1369,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <tag name="ground" />
@@ -1433,7 +1411,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.308716 -0.914948 -0.246094" range="0.198242" height="0.495605" />
         </container>
@@ -1458,7 +1435,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.323974 -0.914948 0.271973" range="0.182983" height="0.457458" />
         </container>
@@ -1515,7 +1491,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.637207 0.863472 -2.177246" range="0.340625" height="0.851563" />
             <point pos="-0.131836 0.863472 -2.159912" range="0.340625" height="0.851563" />
@@ -1680,7 +1655,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.452310 -6.122720 18.980309" range="0.100000" height="0.250000" />
             <point pos="5.090766 -8.265984 3.902922" range="0.100000" height="0.100001" flags="32" />
@@ -1843,7 +1817,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="6.385253 -5.624390 -3.917481" range="0.100000" height="0.250000" />
             <point pos="6.708496 -5.446198 -2.932129" range="0.100000" height="0.250000" />
@@ -2139,7 +2112,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-19.009766 -4.070473 -17.831785" range="0.100000" height="0.250000" />
             <point pos="-19.070311 -3.690475 -18.189939" range="0.100000" height="0.250000" />
@@ -2353,7 +2325,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.568304 -0.840914 2.087595" range="0.100000" height="0.250000" />
             <point pos="-1.441124 -1.595915 2.077618" range="0.100000" height="0.250000" />
@@ -2393,7 +2364,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.451944 -0.840236 1.995806" range="0.100000" height="0.250000" />
             <point pos="-0.198640 -0.840414 1.548931" range="0.134375" height="0.264999" />
@@ -2435,7 +2405,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.778887 -0.840913 2.087553" range="0.100000" height="0.250000" />
             <point pos="-1.598832 -1.220912 2.086197" range="0.100000" height="0.250000" />
@@ -2487,7 +2456,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.308105 -0.661758 -3.586426" range="0.100000" height="0.221745" />
             <point pos="3.275879 -0.661758 -4.921875" range="0.100000" height="0.221745" />
@@ -2628,7 +2596,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-6.764042 -0.342392 -14.548616" range="0.100000" height="0.250000" />
             <point pos="-0.497169 0.050323 0.610057" range="0.100000" height="0.250000" />
@@ -2817,7 +2784,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-7.843018 -12.277924 12.907471" range="0.100000" height="0.250000" />
             <point pos="-15.566409 -11.902924 12.855467" range="0.100000" height="0.250000" />
@@ -2847,7 +2813,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="ground" />
             <tag name="floor" />
@@ -2866,7 +2831,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="ground" />
             <tag name="floor" />
@@ -2921,7 +2885,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-19.386719 0.120117 -1.437507" range="0.271875" height="0.370003" />
             <point pos="-20.402344 0.585205 -0.360840" range="0.443750" height="1.109375" />
@@ -2966,7 +2929,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-17.617552 -4.186536 14.461695" range="0.100000" height="0.250000" />
             <point pos="-17.559542 -4.186812 13.328927" range="0.100000" height="0.250000" />
@@ -3017,7 +2979,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <point pos="-1.625250 -5.342361 2.514329" range="1.199951" height="2.000000" />
             <point pos="-1.640898 -5.342361 6.368085" range="1.199951" height="2.000000" />
@@ -3090,7 +3051,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.728524 11.924679 3.703135" range="0.144776" height="0.361940" />
             <point pos="-3.731152 11.923679 2.855797" range="0.157959" height="0.394897" />
@@ -3166,7 +3126,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.341135 -5.620224 9.528782" range="0.100000" height="0.250000" />
             <point pos="-6.545526 -5.631851 0.609691" range="0.100000" height="0.250000" />
@@ -3235,7 +3194,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="1.366511 5.738510 7.273761" range="0.715820" height="1.789551" />
@@ -3269,7 +3227,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-1.718751 -1.384338 3.902343" range="0.203125" height="0.507813" />
@@ -3300,7 +3257,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="ground" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -3322,7 +3278,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.759033 1.978004 -2.211426" range="0.340625" height="0.851563" />
             <point pos="4.151612 1.978004 -2.840577" range="0.203125" height="0.507813" />
@@ -3558,7 +3513,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.079429 -5.013481 -2.424026" range="0.100000" height="0.250000" />
             <point pos="10.087976 -5.009422 -16.408911" range="0.134375" height="0.335938" />
@@ -3643,7 +3597,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <point pos="-6.322754 3.211395 -3.657959" range="0.237500" height="0.593750" />
@@ -3729,7 +3682,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.873432 -1.449253 2.675764" range="0.100000" height="0.250000" />
             <point pos="-2.781375 -1.072438 7.047746" range="0.100000" height="0.250000" />
@@ -3810,7 +3762,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="6.220707 -1.983860 -3.599806" range="0.100000" height="0.250000" />
             <point pos="6.205368 -3.118860 -3.748071" range="0.100000" height="0.250000" />
@@ -3888,7 +3839,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="5.356462 0.024501 -0.571345" range="0.100000" height="0.250000" />
             <point pos="3.264175 0.399076 -0.616799" range="0.100000" height="0.250000" />
@@ -4035,7 +3985,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.322040 -0.116440 -1.050482" range="0.340625" height="0.851563" />
             <point pos="-1.053175 -0.704620 0.366945" range="0.183105" height="0.457764" />
@@ -4065,7 +4014,6 @@
         </container>
         <container name="lootshelves" lootmax="5">
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.259884 -20.229065 9.901715" range="0.203125" height="0.507813" />
             <point pos="0.157717 -20.219032 -14.225503" range="0.203125" height="0.507813" />
@@ -4125,7 +4073,6 @@
         </container>
         <container name="lootshelves" lootmax="5">
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.259657 -20.175591 9.901525" range="0.203125" height="0.507813" />
             <point pos="0.157804 -20.182922 -14.225460" range="0.203125" height="0.507813" />
@@ -4192,7 +4139,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.612016 -1.908068 -4.964693" range="0.100000" height="0.250000" />
             <point pos="10.689864 -2.329686 -2.231157" range="0.100047" height="0.250118" />
@@ -4255,7 +4201,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.771155 -3.711975 3.308849" range="0.134375" height="0.335938" />
             <point pos="1.223220 -0.711090 3.107373" range="0.340625" height="0.851563" />
@@ -4300,7 +4245,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.193125 -5.136858 -6.647027" range="0.134375" height="0.335938" />
             <point pos="1.830048 -5.570500 2.431684" range="0.196777" height="0.491942" />
@@ -4337,7 +4281,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="7.760236 -5.383099 0.191359" range="0.100000" height="0.250000" />
             <point pos="7.779462 -4.248099 -1.047321" range="0.100000" height="0.250000" />
@@ -4383,7 +4326,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.425551 -4.913818 5.664860" range="0.134375" height="0.335938" />
             <point pos="7.027954 -5.294250 -0.239566" range="0.190430" height="0.476075" />
@@ -4423,7 +4365,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.000977 -1.923691 0.748290" range="0.134375" height="0.335938" />
             <point pos="5.170899 -2.286072 3.385009" range="0.203125" height="0.507813" />
@@ -4464,7 +4405,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.397461 -1.897835 3.367676" range="0.134375" height="0.335938" />
             <point pos="1.539550 -1.423752 -3.497803" range="0.134375" height="0.335938" />
@@ -4501,7 +4441,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.190918 -1.514595 1.860351" range="0.100000" height="0.250000" />
             <point pos="-7.838867 -1.885590 1.504881" range="0.203125" height="0.507813" />
@@ -4535,7 +4474,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.112307 -1.732562 4.355712" range="0.134375" height="0.335938" />
             <point pos="-5.120118 -2.042526 1.926023" range="0.237500" height="0.593750" />
@@ -4568,7 +4506,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.093750 -0.618492 -4.527344" range="0.100000" height="0.250000" />
             <point pos="3.110351 0.137276 -4.688477" range="0.100000" height="0.250000" />
@@ -4612,7 +4549,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.361328 0.284393 -1.063965" range="0.134375" height="0.335938" />
             <point pos="-1.294433 -0.542938 -2.356934" range="0.340625" height="0.851563" />
@@ -4653,7 +4589,6 @@
         <container name="lootshelves">
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.513182 0.231995 -4.429200" range="0.100000" height="0.250000" />
             <point pos="-3.525879 -0.523712 -3.529541" range="0.100000" height="0.250000" />
@@ -4700,7 +4635,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.458496 -3.090073 6.394042" range="0.100000" height="0.250000" />
             <point pos="0.210938 -2.612602 -1.567871" range="0.134375" height="0.265000" />
@@ -4760,7 +4694,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.891113 -1.414436 -2.705811" range="0.054854" height="0.137135" />
             <point pos="3.143555 -0.711227 2.599365" range="0.100000" height="0.250000" />
@@ -4802,7 +4735,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.293945 -1.024139 0.150634" range="0.134375" height="0.335938" />
             <point pos="0.492187 -0.718529 -1.813965" range="0.134375" height="0.335938" />
@@ -4849,7 +4781,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.721679 -1.526245 0.100585" range="0.114991" height="0.287477" />
             <point pos="-1.815430 -0.944695 0.293213" range="0.134375" height="0.335938" />
@@ -4895,7 +4826,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-4.384277 -1.526245 1.460937" range="0.129883" height="0.324707" />
             <point pos="3.708008 -1.043739 1.106933" range="0.134375" height="0.335938" />
@@ -4939,7 +4869,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.673828 -1.145317 4.505127" range="0.409375" height="1.008144" />
             <point pos="-2.726074 -0.988358 -1.795166" range="0.201660" height="0.504150" />
@@ -4973,7 +4902,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.172852 -0.469681 -2.235351" range="0.134375" height="0.335938" />
             <point pos="-1.647461 -0.633278 -2.337158" range="0.134375" height="0.335938" />
@@ -5013,7 +4941,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.421389 -1.251877 4.321532" range="0.100000" height="0.250000" />
             <point pos="0.198730 -2.223412 -0.744385" range="0.101074" height="0.252685" />
@@ -5056,7 +4983,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.227539 -1.659477 -5.322998" range="0.100000" height="0.250000" />
             <point pos="3.706543 -1.657578 -5.338623" range="0.100000" height="0.250000" />
@@ -5103,7 +5029,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-3.270020 -2.417313 -5.066161" range="0.100000" height="0.250000" />
             <point pos="3.247559 -1.669395 -5.343507" range="0.100000" height="0.250000" />
@@ -5156,7 +5081,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.702149 -2.278046 2.226806" range="0.134375" height="0.335938" />
             <point pos="3.586914 -2.740143 0.319824" range="0.168750" height="0.421875" />
@@ -5201,7 +5125,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.261231 -0.467560 -5.145264" range="0.121582" height="0.303955" />
             <point pos="-1.800782 -0.467560 -5.149658" range="0.123047" height="0.307618" />
@@ -5253,7 +5176,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.746094 -0.729248 4.801513" range="0.192871" height="0.482177" />
             <point pos="2.905762 -0.729401 5.310791" range="0.235840" height="0.588654" />
@@ -5291,7 +5213,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.109374 -0.112091 8.481933" range="0.100000" height="0.250000" />
             <point pos="0.221680 0.093124 1.788818" range="0.100000" height="0.250000" />
@@ -5341,7 +5262,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.722168 -0.418388 -3.366699" range="0.100000" height="0.250000" />
             <point pos="-0.158203 0.199677 -0.145752" range="0.135742" height="0.339355" />
@@ -5380,7 +5300,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.738281 0.148720 -3.745850" range="0.159669" height="0.328682" />
             <point pos="0.474610 0.148720 -3.737549" range="0.163331" height="0.328003" />
@@ -5411,7 +5330,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="1.141053 2.303240 1.387480" range="0.492005" height="1.230012" />
@@ -5476,7 +5394,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
         </container>
         <container name="lootweapons" lootmax="1">
@@ -5502,7 +5419,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.802491 -5.905106 -4.532349" range="0.100000" height="0.250000" />
             <point pos="-1.849732 -6.303841 -4.875854" range="0.184692" height="0.461731" />
@@ -5598,7 +5514,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.943681 1.240356 -4.663615" range="0.100000" height="0.250000" />
             <point pos="-1.474617 0.722397 1.206423" range="0.100000" height="0.250000" />
@@ -5679,7 +5594,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="5.714357 -0.194443 8.131834" range="0.237500" height="0.593750" />
             <point pos="2.578125 -0.223640 3.993652" range="0.164551" height="0.204201" />
@@ -5773,7 +5687,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.800129 0.010468 -4.502141" range="0.623898" height="2.000000" />
             <point pos="-1.196180 0.010468 3.200843" range="0.511047" height="2.000000" />
@@ -5812,7 +5725,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <point pos="-1.682320 -0.377224 -5.550613" range="0.271875" height="0.679688" />
             <point pos="1.683430 -0.377224 -7.474107" range="0.271875" height="0.679688" />
         </container>
@@ -5890,7 +5802,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-9.122560 -5.017090 1.016844" range="0.203125" height="0.507813" />
             <point pos="-9.539306 -5.064827 -0.837649" range="0.237500" height="0.370003" />
@@ -6034,7 +5945,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.115490 -1.903931 -5.892862" range="0.152100" height="0.380250" />
             <point pos="-2.711320 -1.516357 1.382322" range="0.203125" height="0.507690" />
@@ -6123,7 +6033,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.382971 -0.088013 -4.274296" range="0.100000" height="0.250000" />
             <point pos="-2.465654 0.091003 3.836107" range="0.134375" height="0.335938" />
@@ -6202,7 +6111,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.653690 -0.898163 -7.823767" range="0.100000" height="0.250000" />
             <point pos="2.800084 -1.928253 1.186862" range="0.114014" height="0.285035" />
@@ -6304,7 +6212,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.375245 1.003563 7.112061" range="0.100000" height="0.250000" />
             <point pos="3.562989 0.628563 7.111328" range="0.100000" height="0.250000" />
@@ -6545,7 +6452,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-0.549943 -0.696411 -0.969652" range="0.582314" height="0.263550" />
@@ -6609,7 +6515,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.162597 -0.753435 -2.944458" range="0.203125" height="0.370001" />
             <point pos="-2.936768 -0.658806 0.562011" range="0.306250" height="0.765625" />
@@ -6658,13 +6563,189 @@
             <point pos="-0.208862 -7.533453 -2.563232" range="0.358154" height="0.895386" />
         </container>
     </group>
+    <group name="Land_Mil_FireStation" lootmax="15">
+        <usage name="Military" />
+        <usage name="Firefighter" />
+        <container name="lootfloor" lootmax="10">
+            <category name="tools" />
+            <category name="containers" />
+            <category name="clothes" />
+            <tag name="floor" />
+            <point pos="-0.535154 0.037323 6.022705" range="0.479004" height="1.197510" />
+            <point pos="-2.036621 13.402275 7.210693" range="0.546875" height="1.367188" />
+            <point pos="12.222655 5.704552 7.025633" range="0.546875" height="1.367187" />
+            <point pos="8.002934 5.704552 13.593503" range="0.548828" height="1.372070" />
+            <point pos="3.060057 5.708618 10.018798" range="0.605469" height="1.513672" />
+            <point pos="2.759277 0.037231 -0.912110" range="0.628760" height="2.000000" />
+            <point pos="2.930175 5.708618 13.088135" range="0.637695" height="1.594238" />
+            <point pos="-5.091308 13.402275 8.712158" range="0.654785" height="1.636963" />
+            <point pos="6.211915 5.000000 3.627684" range="0.692383" height="1.730957" />
+            <point pos="1.513672 0.037231 0.258789" range="0.703261" height="2.000000" />
+            <point pos="-5.075194 0.037323 8.640868" range="0.726074" height="1.193680" />
+            <point pos="4.478028 5.000000 1.235596" range="0.753125" height="1.882813" />
+            <point pos="2.123533 0.997513 15.279295" range="0.787353" height="1.968384" />
+            <point pos="10.567874 5.704552 12.894530" range="0.805420" height="2.000000" />
+            <point pos="8.374022 5.704552 10.145995" range="0.919922" height="0.135864" />
+            <point pos="7.055668 3.068817 16.133055" range="0.922363" height="2.000000" />
+            <point pos="2.337402 0.037231 -7.379882" range="0.950693" height="2.000000" />
+            <point pos="-2.091311 5.708618 11.672606" range="1.000843" height="2.000000" />
+            <point pos="11.083499 5.704552 8.100583" range="1.019396" height="2.000000" />
+            <point pos="3.779299 0.037323 8.309569" range="1.067627" height="2.000000" />
+            <point pos="0.002930 5.708618 8.357421" range="1.081543" height="2.000000" />
+            <point pos="3.319824 5.000000 -0.229981" range="1.114854" height="2.000000" />
+            <point pos="1.406738 0.037231 -9.893799" range="1.199951" height="2.000000" />
+            <point pos="5.349609 0.037231 2.629150" range="1.199951" height="2.000000" />
+            <point pos="1.479491 0.037231 -13.453614" range="1.199951" height="2.000000" />
+            <point pos="8.784183 0.037323 7.253903" range="1.199951" height="2.000000" />
+            <point pos="6.106448 0.037323 8.000487" range="1.199951" height="2.000000" />
+            <point pos="5.654298 5.704552 11.568602" range="1.199951" height="2.000000" />
+            <point pos="5.126953 0.037231 -13.342041" range="1.199951" height="2.000000" />
+            <point pos="4.242674 0.037231 -10.597655" range="1.199951" height="2.000000" />
+            <point pos="-0.967287 0.037231 -5.708008" range="1.199951" height="2.000000" />
+            <point pos="2.055175 0.037231 -4.182617" range="1.199951" height="2.000000" />
+            <point pos="-0.875000 5.708618 14.754884" range="1.199951" height="2.000000" />
+            <point pos="5.652344 0.037231 -1.719727" range="1.199951" height="2.000000" />
+            <point pos="4.818360 0.037231 -6.767090" range="1.199951" height="2.000000" />
+        </container>
+        <container name="lootshelves" lootmax="12">
+            <category name="tools" />
+            <category name="containers" />
+            <category name="clothes" />
+            <tag name="shelves" />
+            <point pos="6.925292 0.881584 -10.102784" range="0.100000" height="0.250000" />
+            <point pos="6.912598 0.501587 -11.289063" range="0.100000" height="0.250000" />
+            <point pos="6.988768 0.126587 -10.869630" range="0.100000" height="0.250000" />
+            <point pos="4.137695 0.881584 4.032470" range="0.100000" height="0.250000" />
+            <point pos="4.950683 0.501587 4.104736" range="0.100000" height="0.250000" />
+            <point pos="6.139161 0.881584 4.038329" range="0.100000" height="0.250000" />
+            <point pos="5.708496 0.126587 4.100096" range="0.100000" height="0.250000" />
+            <point pos="0.459961 5.082909 2.860840" range="0.100000" height="0.250000" />
+            <point pos="0.464844 5.837906 2.731445" range="0.100000" height="0.250000" />
+            <point pos="5.771975 5.733467 13.839600" range="0.131836" height="0.329590" />
+            <point pos="6.545410 0.126587 4.064696" range="0.134375" height="0.259995" />
+            <point pos="4.713381 1.312469 6.226805" range="0.134375" height="0.335938" />
+            <point pos="2.477538 0.126587 -8.702880" range="0.134375" height="0.259995" />
+            <point pos="2.453126 0.881584 -8.718995" range="0.134375" height="0.264999" />
+            <point pos="6.970702 0.881584 -10.845946" range="0.134375" height="0.264999" />
+            <point pos="12.301757 7.109871 11.477052" range="0.134375" height="0.335938" />
+            <point pos="0.435059 5.457909 1.826416" range="0.144531" height="0.264999" />
+            <point pos="9.141113 5.733467 13.932617" range="0.145508" height="0.363770" />
+            <point pos="6.197756 5.733467 9.692869" range="0.157715" height="0.394287" />
+            <point pos="0.791991 6.158775 13.285155" range="0.168750" height="0.421875" />
+            <point pos="-1.794924 6.158279 10.453124" range="0.168750" height="0.421875" />
+            <point pos="0.794436 6.158676 13.905517" range="0.168750" height="0.421875" />
+            <point pos="10.328125 6.721123 5.537354" range="0.168750" height="0.421875" />
+            <point pos="10.271974 6.161858 11.779541" range="0.176259" height="0.440647" />
+            <point pos="6.154785 0.037231 -9.819091" range="0.190430" height="0.476074" />
+            <point pos="3.953617 6.210190 12.196776" range="0.203125" height="0.507813" />
+            <point pos="3.961916 6.210190 10.801024" range="0.203125" height="0.507813" />
+            <point pos="3.965331 6.210190 11.532958" range="0.203125" height="0.507813" />
+            <point pos="5.042481 6.084381 3.844238" range="0.203125" height="0.370003" />
+            <point pos="3.951172 5.598244 3.164306" range="0.203125" height="0.507813" />
+            <point pos="3.513670 1.887024 14.873535" range="0.203125" height="0.507813" />
+            <point pos="-2.027833 6.158455 15.765380" range="0.203125" height="0.507813" />
+            <point pos="9.921875 6.484077 11.167970" range="0.203125" height="0.507813" />
+            <point pos="-2.026858 6.158493 16.471191" range="0.203125" height="0.507813" />
+            <point pos="11.983887 6.477280 10.050048" range="0.203125" height="0.507813" />
+            <point pos="3.965823 6.210190 12.911864" range="0.203125" height="0.507813" />
+            <point pos="0.730957 5.777969 1.058838" range="0.203125" height="0.507813" />
+            <point pos="1.994629 0.598473 -2.290527" range="0.237500" height="0.370003" />
+            <point pos="3.074707 0.923172 -2.300781" range="0.237500" height="0.593750" />
+            <point pos="-2.451664 6.186676 13.972654" range="0.237500" height="0.593750" />
+            <point pos="1.494628 0.098473 -2.377441" range="0.237500" height="0.370003" />
+            <point pos="1.471680 1.098473 -2.280273" range="0.237500" height="0.370003" />
+            <point pos="-1.203125 1.098473 -2.375732" range="0.237500" height="0.370003" />
+            <point pos="11.385256 0.417694 8.803464" range="0.237500" height="0.593750" />
+            <point pos="12.163574 0.617874 6.425048" range="0.237500" height="0.370003" />
+            <point pos="3.681153 5.877724 3.802001" range="0.237500" height="0.593750" />
+            <point pos="3.485840 5.098175 -1.789307" range="0.237500" height="0.370003" />
+            <point pos="12.400391 6.553604 9.396482" range="0.237500" height="0.593750" />
+            <point pos="-1.718261 0.598473 -2.280762" range="0.237500" height="0.370003" />
+            <point pos="3.372560 1.607544 15.907958" range="0.237500" height="0.593750" />
+            <point pos="-1.263184 0.098473 -2.274658" range="0.237500" height="0.370003" />
+            <point pos="10.058594 6.484077 9.159911" range="0.271875" height="0.679688" />
+            <point pos="4.574707 5.598175 -1.761230" range="0.271875" height="0.370003" />
+            <point pos="12.216796 1.117874 5.914062" range="0.271875" height="0.370003" />
+            <point pos="3.532226 6.098175 -1.735108" range="0.271875" height="0.370003" />
+            <point pos="10.063478 0.931297 8.267332" range="0.271875" height="0.679688" />
+            <point pos="4.478517 5.584381 3.933593" range="0.271875" height="0.370003" />
+            <point pos="9.620603 6.117828 6.657469" range="0.292441" height="0.731102" />
+            <point pos="6.565429 0.812859 5.632567" range="0.306250" height="0.765625" />
+            <point pos="-3.273434 6.186676 13.966796" range="0.306250" height="0.765625" />
+            <point pos="0.460450 0.863472 -8.362793" range="0.340625" height="0.851563" />
+            <point pos="-1.361330 0.863472 -8.335694" range="0.340625" height="0.851563" />
+            <point pos="-0.131836 0.863472 -2.159912" range="0.340625" height="0.851563" />
+            <point pos="9.553711 0.812859 5.603515" range="0.340625" height="0.851563" />
+            <point pos="0.637207 0.863472 -2.177246" range="0.340625" height="0.851563" />
+            <point pos="5.735839 0.812859 5.612060" range="0.340625" height="0.851563" />
+            <point pos="1.334960 0.863472 -8.324464" range="0.340625" height="0.851563" />
+            <point pos="10.236328 6.484077 10.607907" range="0.375000" height="0.937500" />
+            <point pos="12.240237 6.477280 10.764891" range="0.375000" height="0.937500" />
+            <point pos="8.503907 0.812859 5.592039" range="0.388672" height="0.971680" />
+            <point pos="-1.226562 1.003059 -14.309082" range="0.443750" height="1.109375" />
+            <point pos="6.570800 5.000000 -14.141601" range="1.131250" height="2.000000" />
+            <point pos="5.835449 9.000000 2.076415" range="1.199951" height="2.000000" />
+            <point pos="-2.690918 5.000000 -1.484131" range="1.199951" height="2.000000" />
+            <point pos="5.611815 5.000000 -3.877929" range="1.199951" height="2.000000" />
+            <point pos="5.962403 5.000000 -7.905274" range="1.199951" height="2.000000" />
+            <point pos="1.969726 9.000000 -0.989014" range="1.199951" height="2.000000" />
+            <point pos="-2.802735 5.000000 -7.892090" range="1.199951" height="2.000000" />
+            <point pos="1.857422 5.000000 -8.496338" range="1.199951" height="2.000000" />
+            <point pos="0.205078 5.000000 -13.482667" range="1.199951" height="2.000000" />
+            <point pos="-0.819826 5.000000 -5.049073" range="1.199951" height="2.000000" />
+            <point pos="12.081544 9.000000 18.665525" range="1.199951" height="2.000000" />
+            <point pos="7.279790 9.000000 14.837157" range="1.199951" height="2.000000" />
+            <point pos="11.778811 9.000000 12.420407" range="1.199951" height="2.000000" />
+            <point pos="6.581546 9.000000 20.008299" range="1.199951" height="2.000000" />
+            <point pos="1.272461 9.000000 20.566895" range="1.199951" height="2.000000" />
+            <point pos="-3.766601 9.000000 15.125976" range="1.199951" height="2.000000" />
+            <point pos="-4.070318 9.000000 20.942137" range="1.199951" height="2.000000" />
+            <point pos="1.314943 9.000000 11.310545" range="1.199951" height="2.000000" />
+            <point pos="5.980468 9.000000 9.199462" range="1.199951" height="2.000000" />
+            <point pos="5.071290 9.000000 12.226073" range="1.199951" height="2.000000" />
+            <point pos="2.916506 9.000000 16.426268" range="1.199951" height="2.000000" />
+            <point pos="-0.836918 9.000000 16.903809" range="1.199951" height="2.000000" />
+            <point pos="-1.374030 9.000000 13.197020" range="1.199951" height="2.000000" />
+            <point pos="2.484864 9.000000 3.884521" range="1.199951" height="2.000000" />
+        </container>
+        <container name="lootweapons" lootmax="6">
+            <category name="weapons" />
+            <category name="explosives" />
+            <point pos="4.152833 0.126587 4.024901" range="0.100000" height="0.250000" />
+            <point pos="6.915527 0.501587 4.100096" range="0.100000" height="0.250000" />
+            <point pos="11.851563 9.000000 6.745115" range="1.199951" height="2.000000" />
+            <point pos="6.496581 0.037231 -9.374756" range="0.112793" height="0.281983" />
+            <point pos="0.422364 5.457909 3.562256" range="0.131836" height="0.264999" />
+            <point pos="2.836425 0.501587 -8.801513" range="0.134375" height="0.264999" />
+            <point pos="6.946778 0.501587 -10.463868" range="0.134375" height="0.264999" />
+            <point pos="5.340821 0.881584 4.061035" range="0.134375" height="0.264999" />
+            <point pos="-1.126465 18.353828 4.811279" range="0.134375" height="0.335938" />
+            <point pos="-5.384279 18.550362 4.808836" range="0.134375" height="0.335938" />
+            <point pos="-3.031250 18.437218 9.578368" range="0.134375" height="0.335938" />
+            <point pos="-6.017092 18.571899 7.765379" range="0.168750" height="0.421875" />
+            <point pos="7.789067 3.068817 17.304686" range="0.188965" height="0.472412" />
+            <point pos="-2.462889 6.158005 10.446533" range="0.203125" height="0.507813" />
+            <point pos="7.178224 0.812859 5.472656" range="0.234863" height="0.587158" />
+            <point pos="12.221191 0.117874 5.832274" range="0.237500" height="0.370003" />
+            <point pos="10.835938 6.186676 5.641843" range="0.254883" height="0.637207" />
+            <point pos="2.975097 5.598175 -1.766113" range="0.271875" height="0.370003" />
+            <point pos="-2.311036 0.863472 -8.400392" range="0.340625" height="0.851563" />
+            <point pos="10.273925 6.484077 9.793213" range="0.340625" height="0.851563" />
+            <point pos="-2.113770 13.402275 5.569091" range="0.553711" height="1.384277" />
+            <point pos="-2.053710 13.402275 8.670898" range="0.602539" height="1.506348" />
+            <point pos="-4.455565 18.000000 6.069825" range="1.134845" height="2.000000" />
+            <point pos="6.208007 9.000000 -1.386963" range="1.153320" height="2.000000" />
+            <point pos="-3.613768 18.000000 8.236328" range="1.189453" height="2.000000" />
+            <point pos="-3.292971 5.000000 -12.870850" range="1.199951" height="2.000000" />
+            <point pos="3.061525 5.000000 -14.561523" range="1.199951" height="2.000000" />
+        </container>
+    </group>
     <group name="Land_Mil_Fortified_Nest_Big">
         <usage name="Military" />
         <container name="lootfloor">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="3.199226 1.270844 -3.458697" range="0.694336" height="1.735840" />
@@ -6712,7 +6793,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-0.527497 -2.107239 0.921759" range="0.443750" height="1.109375" />
@@ -6749,7 +6829,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="2.327837 -1.099640 1.594077" range="0.100000" height="0.250000" />
             <point pos="3.350748 -1.099174 1.585214" range="0.100000" height="0.250000" />
@@ -6822,7 +6901,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -6856,7 +6934,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -6907,7 +6984,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -7059,7 +7135,6 @@
         <container name="lootshelves" lootmax="1">
             <category name="weapons" />
             <category name="tools" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.217285 -0.786583 -0.442139" range="0.287598" height="0.718994" />
             <point pos="0.731445 -0.786583 -0.531250" range="0.157715" height="0.394287" />
@@ -7170,7 +7245,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.330090 -3.391235 13.750732" range="0.100000" height="0.250000" />
             <point pos="4.517091 1.228745 3.523925" range="0.100000" height="0.250000" />
@@ -7320,7 +7394,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.622377 -7.020724 -6.996933" range="0.100000" height="0.250000" />
             <point pos="4.323457 -8.155724 -0.973581" range="0.100000" height="0.250000" />
@@ -7419,7 +7492,6 @@
         <container name="lootfloor" lootmax="6">
             <category name="tools" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-3.810775 -5.199203 -4.388960" range="0.443750" height="1.109375" />
@@ -7444,7 +7516,6 @@
         <container name="lootfloor">
             <category name="tools" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="1.890416 -7.407387 8.309711" range="0.764404" height="1.911011" />
@@ -7502,7 +7573,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="shelves" />
             <point pos="0.195557 -1.988037 4.307129" range="0.136231" height="0.340578" />
@@ -7586,7 +7656,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.066162 -9.337517 -3.576416" range="0.546875" height="1.367188" />
             <point pos="7.129639 -9.337517 -3.543946" range="0.503662" height="1.259155" />
@@ -7774,7 +7843,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="7.404786 -5.866600 8.016845" range="0.100000" height="0.250000" />
             <point pos="7.422365 -5.866539 8.113280" range="0.100000" height="0.250000" />
@@ -7905,7 +7973,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.494039 6.167185 -4.485708" range="0.100000" height="0.250000" />
             <point pos="-1.963925 5.787184 -4.496967" range="0.100000" height="0.250000" />
@@ -7993,7 +8060,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.750573 -0.696959 1.332562" range="0.100000" height="0.250000" />
             <point pos="4.688038 -0.299516 0.234023" range="0.100000" height="0.250000" />
@@ -8032,6 +8098,8 @@
     </group>
     <group name="Land_Roadblock_WoodenCrate" lootmax="2">
         <usage name="Military" />
+        <usage name="Industrial" />
+        <usage name="Town" />
         <container name="loot" lootmax="2">
             <category name="tools" />
             <category name="clothes" />
@@ -8062,7 +8130,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="13.804442 -4.456329 -12.698243" range="0.100000" height="0.250000" />
             <point pos="13.833252 -5.216324 -12.636476" range="0.134375" height="0.265000" />
@@ -8211,7 +8278,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="5.035277 -1.489498 -15.088136" range="0.100000" height="0.250000" />
             <point pos="5.465822 -1.489498 -14.808105" range="0.173340" height="0.433350" />
@@ -8407,7 +8473,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -8478,7 +8543,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -8537,7 +8601,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -8582,7 +8645,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -8702,7 +8764,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.575195 -2.340828 -3.474853" range="0.100000" height="0.250000" />
             <point pos="0.304931 -2.112373 -3.423340" range="0.100000" height="0.250000" />
@@ -8810,7 +8871,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.318726 -0.132723 -0.128418" range="0.375000" height="0.937500" />
             <point pos="-2.329224 -0.132723 1.697509" range="0.375000" height="0.937500" />
@@ -8862,7 +8922,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.716431 -0.400661 -2.673096" range="0.237500" height="0.593750" />
             <point pos="-0.750610 -0.897915 -3.003906" range="0.134375" height="0.264999" />
@@ -8941,7 +9000,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.214844 -0.100119 -1.084473" range="0.306250" height="0.765625" />
             <point pos="1.302612 -0.100119 -1.144531" range="0.443750" height="1.109375" />
@@ -8977,7 +9035,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.041992 0.074245 -0.441162" range="0.203125" height="0.507813" />
             <point pos="1.244995 -0.713203 -0.756592" range="0.529907" height="0.774403" />
@@ -8998,7 +9055,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -9485,7 +9541,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <point pos="4.018076 -2.113770 -6.408950" range="0.100000" height="0.250000" />
             <point pos="4.639100 -2.113770 -6.387214" range="0.100000" height="0.250000" />
@@ -9582,7 +9637,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="0.811448 1.755463 1.269168" range="0.100000" height="0.250000" />
             <point pos="-2.439674 -2.260132 5.749651" range="0.107178" height="0.267945" />
@@ -9717,7 +9771,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.181232 1.424835 -0.900827" range="0.100000" height="0.250000" />
             <point pos="-12.657452 4.821472 4.043210" range="0.100000" height="0.149048" />
@@ -9821,7 +9874,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -9846,7 +9898,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -10399,7 +10450,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />
             <point pos="6.338867 -1.378998 -3.291261" range="0.100000" height="0.250000" />
@@ -10478,7 +10528,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="4.154785 -2.792236 -3.049073" range="0.134375" height="0.335938" />
             <point pos="-4.699709 -0.356773 6.063719" range="0.134375" height="0.335938" />
@@ -10548,7 +10597,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-2.604980 -0.442200 -2.094238" range="0.203125" height="0.507813" />
             <point pos="2.089844 -0.228088 1.320068" range="0.302246" height="0.755615" />
@@ -10598,7 +10646,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-0.351069 -0.534716 -1.592452" range="0.100000" height="0.250000" />
             <point pos="-3.827850 0.175764 2.222665" range="0.168750" height="0.421875" />
@@ -10648,7 +10695,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="1.734309 -1.058645 0.305005" range="0.100000" height="0.250000" />
             <point pos="2.160427 -0.678645 0.345131" range="0.100000" height="0.250000" />
@@ -10685,7 +10731,6 @@
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="-1.508046 -0.407923 -0.451623" range="0.100000" height="0.250000" />
             <point pos="5.040401 -0.407923 0.110236" range="0.100000" height="0.250000" />
@@ -10726,7 +10771,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="books" />
             <tag name="shelves" />
             <point pos="3.622316 -0.493328 4.888915" range="0.365845" height="0.914612" />
             <point pos="5.364136 -0.493328 4.886718" range="0.375000" height="0.937500" />
@@ -10802,7 +10846,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="ground" />
             <tag name="floor" />
@@ -10822,7 +10865,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="floor" />
             <tag name="shelves" />
@@ -10842,7 +10884,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="ground" />
             <tag name="floor" />
@@ -10862,7 +10903,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <category name="books" />
             <category name="explosives" />
             <tag name="ground" />
             <tag name="floor" />
@@ -11183,7 +11223,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="0.482910 -0.264374 -1.178955" range="0.166260" height="0.415650" />
@@ -11205,7 +11244,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-0.786908 -0.489227 0.306929" range="0.100000" height="0.250000" />
@@ -11233,7 +11271,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-0.787241 -0.518097 0.302419" range="0.100000" height="0.250000" />
@@ -11372,7 +11409,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-1.633856 0.304016 -0.538906" range="0.100000" height="0.250000" />
@@ -11390,7 +11426,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-1.350670 -0.165202 -0.306449" range="0.203125" height="0.507332" />
@@ -11889,7 +11924,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="0.640137 -0.277100 0.373779" range="0.100000" height="0.250000" />
@@ -11916,7 +11950,6 @@
             <category name="clothes" />
             <category name="food" />
             <category name="weapons" />
-            <category name="books" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="0.640137 -0.277100 0.373779" range="0.100000" height="0.250000" />

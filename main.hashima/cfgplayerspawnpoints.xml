@@ -4,7 +4,7 @@
         <spawn_params>
             <min_dist_infected>25</min_dist_infected>
             <max_dist_infected>75</max_dist_infected>
-            <min_dist_player>50</min_dist_player>
+            <min_dist_player>5</min_dist_player>
             <max_dist_player>100</max_dist_player>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>

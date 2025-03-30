@@ -761,9 +761,9 @@
             <item name="CCS_Hashima_Medical_Antidote" chance="1.0" />
         </cargo>
         <cargo chance="0.10">
-            <item name="CCS_KeyCard_1" chance="0.1" />
-            <item name="CCS_KeyCard_5" chance="0.1" />
-            <item name="CCS_KeyCard_6" chance="0.1" />
+            <item name="CCS_KeyCard_1" chance="0.3" />
+            <item name="CCS_KeyCard_5" chance="0.3" />
+            <item name="CCS_KeyCard_6" chance="0.3" />
         </cargo>
     </type>
     <type name="CCS_Hashima_Zombie_M_NBC_Green">

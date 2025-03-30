@@ -18,18 +18,17 @@
     <event name="InfectedFirefighter" />
     <event name="InfectedIndustrial" />
     <event name="InfectedMedic" />
+    <event name="InfectedNBCBlack" />
     <event name="InfectedNBCGreen" />
     <event name="InfectedNBCPurple" />
     <event name="InfectedNBCRed" />
-    <event name="InfectedNBC" />
-    <event name="InfectedNBCBlack" />
     <event name="InfectedPolice" />
     <event name="InfectedPoliceHeavy" />
     <event name="InfectedPrisoner" />
     <event name="InfectedReligious" />
     <event name="InfectedSolitude" />
-    <event name="InfectedVillage" />
     <event name="InfectedVillageTier1" />
+    <event name="InfectedVillageTier2" />
 
     <event name="Loot" />
 

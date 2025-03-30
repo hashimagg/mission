@@ -242,13 +242,13 @@
     <type name="AirborneMask">
         <damage min="0.0" max="0.35" />
         <cargo chance="0.2">
-            <item name="GasMask_Filter" />
+            <item name="CCS_Hashima_Tool_Gas_Mask_Filter_Black" />
         </cargo>
     </type>
     <type name="GP5GasMask">
         <damage min="0.0" max="0.35" />
         <cargo chance="0.2">
-            <item name="GasMask_Filter" />
+            <item name="CCS_Hashima_Tool_Gas_Mask_Filter_Black" />
         </cargo>
     </type>
     <type name="GasMask">

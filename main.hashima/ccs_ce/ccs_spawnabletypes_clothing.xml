@@ -5,6 +5,34 @@
     ║ CCS - SpawnableTypes - Clothing ║
     ╚═════════════════════════════════╝
 -->
+    <type name="CCS_Hashima_Clothing_Dress_Black">
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Clothing_Dress_Blue">
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Clothing_Dress_School">
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" />
+        </cargo>
+    </type>
+
     <type name="CCS_Hashima_Clothing_Firefighter_Jacket_Black">
         <cargo preset="toolsPolice" />
     </type>

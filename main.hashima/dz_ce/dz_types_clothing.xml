@@ -1640,7 +1640,7 @@
         <usage name="Military" />
     </type>
     <type name="RadarCap_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1656,7 +1656,7 @@
         <usage name="Village" />
     </type>
     <type name="RadarCap_Blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1672,7 +1672,7 @@
         <usage name="Village" />
     </type>
     <type name="RadarCap_Brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1688,7 +1688,7 @@
         <usage name="Village" />
     </type>
     <type name="RadarCap_Green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1704,7 +1704,7 @@
         <usage name="Village" />
     </type>
     <type name="RadarCap_Red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2711,8 +2711,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Lunapark" />
         <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="MimeMask_Male">
         <nominal>2</nominal>
@@ -2724,8 +2724,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Lunapark" />
         <usage name="Town" />
+        <usage name="Village" />
     </type>
 
     <type name="MouthRag">
