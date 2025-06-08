@@ -20,6 +20,7 @@
         <active>1</active>
         <children/>
     </event>
+
     <event name="TrajectoryApple">
         <nominal>140</nominal>
         <min>2</min>
@@ -175,6 +176,7 @@
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone" />
         </children>
     </event>
+
     <event name="StaticAirplaneCrate_1">
         <nominal>2</nominal>
         <min>2</min>

@@ -122,32 +122,6 @@
         <usage name="Hunting" />
     </type>
 
-    <type name="PlateCarrierHolster_Black">
-        <nominal>3</nominal>
-        <lifetime>1800</lifetime>
-        <restock>300</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Military" />
-    </type>
-    <type name="PlateCarrierPouches_Black">
-        <nominal>3</nominal>
-        <lifetime>1800</lifetime>
-        <restock>300</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Military" />
-    </type>
-
     <type name="RopeBelt">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
@@ -1840,224 +1814,6 @@
         <usage name="Industrial" />
     </type>
 
-    <type name="DarkMotoHelmet_Black">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_Blue">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_Green">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_Grey">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_Lime">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_Red">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_White">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DarkMotoHelmet_Yellow">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-
-    <type name="DirtBikeHelmet_Black">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Blue">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Green">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Khaki">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Mouthguard">
-        <nominal>5</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Police">
-        <nominal>0</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Red">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-    <type name="DirtBikeHelmet_Visor">
-        <nominal>5</nominal>
-        <lifetime>900</lifetime>
-        <restock>0</restock>
-        <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
-
     <type name="GorkaHelmet">
         <nominal>6</nominal>
         <lifetime>3600</lifetime>
@@ -2160,7 +1916,7 @@
     </type>
 
     <type name="MotoHelmet_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2176,7 +1932,7 @@
         <value name="Tier1" />
     </type>
     <type name="MotoHelmet_Blue">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2192,7 +1948,7 @@
         <value name="Tier1" />
     </type>
     <type name="MotoHelmet_Green">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2208,7 +1964,7 @@
         <value name="Tier1" />
     </type>
     <type name="MotoHelmet_Grey">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2224,23 +1980,7 @@
         <value name="Tier1" />
     </type>
     <type name="MotoHelmet_Lime">
-        <nominal>1</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <tag name="shelves" />
-        <usage name="Industrial" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <value name="Tier1" />
-    </type>
-    <type name="MotoHelmet_Red">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2256,7 +1996,7 @@
         <value name="Tier1" />
     </type>
     <type name="MotoHelmet_White">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2272,7 +2012,7 @@
         <value name="Tier1" />
     </type>
     <type name="MotoHelmet_Yellow">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -4828,21 +4568,6 @@
     <type name="LeatherStorageVest_Natural">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    </type>
-
-    <type name="PlateCarrierVest_Black">
-        <nominal>3</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="clothes" />
-        <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
     </type>
 
     <type name="ReflexVest">

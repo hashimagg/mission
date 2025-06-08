@@ -5,110 +5,183 @@
     ║ CCS - SpawnableTypes - Bag ║
     ╚════════════════════════════╝
 -->
+    <type name="CCS_Hashima_Bag_CanvasBag_Green">
+        <cargo chance="0.50">
+            <item name="CCS_Toilet_Paper" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Jar_Jam_1" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Jar_Jam_2" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Jar_Jam_3" />
+        </cargo>
+        <cargo chance="0.10">
+            <item name="CCS_Hashima_Jar_Jam_4" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Medical_Tetracycline" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Clothing_TShirt_CreepyCrappyShirt" />
+        </cargo>
+    </type>
+    <type name="CCS_Hashima_Bag_CanvasBag_Medical">
+        <cargo chance="0.50">
+            <item name="CCS_Hashima_Medical_Bandage" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Medical_Disinfectant_Alcohol" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Medical_Tetracycline" />
+        </cargo>
+        <cargo chance="0.20">
+            <item name="CCS_Hashima_Medical_Vitamin_Bottle" />
+        </cargo>
+    </type>
+
     <type name="CCS_Hashima_Bag_ChildBag_Blue">
-        <cargo preset="foodVillage" />
+        <cargo preset="cargoFoodVillage" />
     </type>
     <type name="CCS_Hashima_Bag_ChildBag_Green">
-        <cargo preset="foodVillage" />
+        <cargo preset="cargoFoodVillage" />
     </type>
     <type name="CCS_Hashima_Bag_ChildBag_Red">
-        <cargo preset="foodVillage" />
+        <cargo preset="cargoFoodVillage" />
     </type>
 
     <type name="CCS_Hashima_Bag_DryBag_Black">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Blue">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Green">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Orange">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Red">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
     <type name="CCS_Hashima_Bag_DryBag_Yellow">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
+    </type>
+
+    <type name="CCS_Hashima_Bag_DuffelBag_Blue">
+        <cargo preset="cargoFoodArmy" />
+        <cargo preset="cargoMixArmy" />
+    </type>
+    <type name="CCS_Hashima_Bag_DuffelBag_Camo">
+        <cargo preset="cargoFoodArmy" />
+        <cargo preset="cargoMixArmy" />
+    </type>
+    <type name="CCS_Hashima_Bag_DuffelBag_Medical">
+        <cargo preset="cargoFoodArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo chance="0.80">
+            <item name="CCS_Hashima_Medical_Bandage" />
+        </cargo>
+        <cargo chance="0.15">
+            <item name="CCS_Hashima_Medical_Tetracycline" />
+        </cargo>
+        <cargo chance="0.05">
+            <item name="CCS_Hashima_Medical_Antidote" />
+        </cargo>
     </type>
 
     <type name="CCS_Hashima_Bag_HikingBag_Blue">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Green">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Pink">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Red">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_HikingBag_Yellow">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
 
     <type name="CCS_Hashima_Bag_HipPack_Black">
-        <cargo chance="0.6">
+        <cargo chance="0.50">
             <item name="CCS_Hashima_Snack_Bar_2" />
         </cargo>
     </type>
     <type name="CCS_Hashima_Bag_HipPack_Green">
-        <cargo chance="0.6">
+        <cargo chance="0.50">
             <item name="CCS_Hashima_Snack_Bar_1" />
         </cargo>
     </type>
     <type name="CCS_Hashima_Bag_HipPack_Party">
-        <cargo chance="0.02">
+        <cargo chance="0.05">
             <item name="Derringer_Pink" />
         </cargo>
     </type>
     <type name="CCS_Hashima_Bag_HipPack_Red">
-        <cargo chance="0.6">
+        <cargo chance="0.50">
             <item name="CCS_Hashima_Medical_Bandage" />
         </cargo>
-        <cargo chance="0.6">
+        <cargo chance="0.50">
             <item name="CCS_Hashima_Medical_Vitamin_Bottle" />
         </cargo>
     </type>
 
     <type name="CCS_Hashima_Bag_MountainBag_Blue">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Green">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Orange">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Red">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="CCS_Hashima_Bag_MountainBag_Red">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
+    </type>
+
+    <type name="CCS_Hashima_Bag_WaterproofBag_Green">
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoToolIndustrial" />
+    </type>
+    <type name="CCS_Hashima_Bag_WaterproofBag_Orange">
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoToolIndustrial" />
+    </type>
+    <type name="CCS_Hashima_Bag_WaterproofBag_Yellow">
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
 </spawnabletypes>

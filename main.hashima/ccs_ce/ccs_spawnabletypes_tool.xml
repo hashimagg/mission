@@ -10,7 +10,7 @@
     <type name="CCS_Hashima_Tool_Canteen">
     </type>
     <type name="CCS_Hashima_Tool_Filtering_Bottle">
-        <damage min="0.1" max="0.1" />
+        <damage min="0.10" max="0.10" />
     </type>
     <type name="CCS_Hashima_Tool_Protective_Case">
         <hoarder />

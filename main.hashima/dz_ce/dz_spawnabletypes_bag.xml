@@ -6,78 +6,43 @@
     ╚═══════════════════════════╝
 -->
     <type name="AssaultBag_Black">
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo preset="cargoMixArmy" />
     </type>
     <type name="AssaultBag_Green">
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo preset="cargoMixArmy" />
     </type>
     <type name="AssaultBag_Ttsko">
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="CanvasBag_Medical">
-        <cargo chance="0.6">
-            <item name="CCS_Hashima_Medical_Bandage" />
-        </cargo>
-        <cargo chance="0.2">
-            <item name="CCS_Hashima_Medical_Disinfectant_Alcohol" />
-        </cargo>
-        <cargo chance="0.2">
-            <item name="CCS_Hashima_Medical_Tetracycline" />
-        </cargo>
-        <cargo chance="0.2">
-            <item name="CCS_Hashima_Medical_Vitamin_Bottle" />
-        </cargo>
-    </type>
-    <type name="DuffelBagSmall_Camo">
-        <cargo preset="foodArmy" />
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="DuffelBagSmall_Green">
-        <cargo preset="foodArmy" />
-        <cargo preset="mixArmy" />
-    </type>
-    <type name="DuffelBagSmall_Medical">
-        <cargo chance="0.8">
-            <item name="CCS_Hashima_Medical_Bandage" />
-        </cargo>
-        <cargo chance="0.15">
-            <item name="CCS_Hashima_Medical_Tetracycline" />
-        </cargo>
-        <cargo chance="0.01">
-            <item name="CCS_Hashima_Medical_Antidote" />
-        </cargo>
-        <cargo preset="foodArmy" />
-        <cargo preset="mixArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo preset="cargoMixArmy" />
+        <cargo preset="cargoMixArmy" />
     </type>
     <type name="HuntingBag">
-        <cargo preset="foodVillage" />
-        <cargo preset="toolsIndustrial" />
-        <cargo preset="mixHunter" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixHunter" />
+        <cargo preset="cargoToolIndustrial" />
     </type>
     <type name="Slingbag_Black">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="SlingBag_Brown">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="SlingBag_Gray">
-        <cargo preset="foodVillage" />
-        <cargo preset="mixVillage" />
+        <cargo preset="cargoFoodVillage" />
+        <cargo preset="cargoMixVillage" />
     </type>
     <type name="SmershBag">
-        <cargo preset="foodArmy" />
-        <cargo preset="mixArmy" />
+        <cargo preset="cargoFoodArmy" />
+        <cargo preset="cargoMixArmy" />
     </type>
     <type name="TortillaBag">
-        <cargo preset="foodArmy" />
-        <cargo preset="mixArmy" />
+        <cargo preset="cargoFoodArmy" />
+        <cargo preset="cargoMixArmy" />
     </type>
 </spawnabletypes>

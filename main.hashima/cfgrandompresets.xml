@@ -1,283 +1,645 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.00" encoding="UTF-8" standalone="yes"?>
 <randompresets>
 <!--
-    ╔════════════════════╗
-    ║ Cargo - foodHermit ║
-    ╚════════════════════╝
+    ╔══════════════════════════════════╗
+    ║ Attachments - attachmentsBagArmy ║
+    ╚══════════════════════════════════╝
 -->
-    <cargo chance="0.15" name="foodHermit">
-        <item name="Apple" chance="0.07" />
-        <item name="CCS_Hashima_Can_Cream_1" chance="0.11" />
-        <item name="CCS_Hashima_Can_Sardine_1" chance="0.11" />
+    <attachments chance="0.15" name="attachmentsBagArmy">
+        <item name="AliceBag_Black" chance="0.05" />
+        <item name="AliceBag_Camo" chance="0.05" />
+        <item name="AliceBag_Green" chance="0.05" />
+        <item name="AssaultBag_Black" chance="0.10" />
+        <item name="AssaultBag_Green" chance="0.10" />
+        <item name="AssaultBag_Ttsko" chance="0.10" />
+        <item name="CoyoteBag_Brown" chance="0.05" />
+        <item name="CoyoteBag_Green" chance="0.05" />
+        <item name="SmershBag" chance="0.05" />
+        <item name="TortillaBag" chance="0.05" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════╗
+    ║ Attachments - attachmentsBagCity ║
+    ╚══════════════════════════════════╝
+-->
+    <attachments chance="0.15" name="attachmentsBagCity">
+        <item name="CCS_Hashima_Bag_HikingBag_Blue" chance="0.20" />
+        <item name="CCS_Hashima_Bag_HikingBag_Green" chance="0.20" />
+        <item name="CCS_Hashima_Bag_HikingBag_Pink" chance="0.20" />
+        <item name="CCS_Hashima_Bag_HikingBag_Red" chance="0.20" />
+        <item name="CCS_Hashima_Bag_HikingBag_Yellow" chance="0.20" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════╗
+    ║ Attachments - attachmentsBagHunter ║
+    ╚════════════════════════════════════╝
+-->
+    <attachments chance="0.10" name="attachmentsBagHunter">
+        <item name="CourierBag" chance="0.10" />
+        <item name="HuntingBag" chance="0.50" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════════╗
+    ║ Attachments - attachmentsBagIndustrial ║
+    ╚════════════════════════════════════════╝
+-->
+    <attachments chance="0.05" name="attachmentsBagIndustrial">
+        <item name="CCS_Hashima_Bag_DryBag_Black" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Blue" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Green" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Orange" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Red" chance="0.20" />
+        <item name="CCS_Hashima_Bag_DryBag_Yellow" chance="0.20" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsBagVillage ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="0.15" name="attachmentsBagVillage">
+        <item name="CCS_Hashima_Bag_MountainBag_Blue" chance="0.10" />
+        <item name="CCS_Hashima_Bag_MountainBag_Green" chance="0.10" />
+        <item name="CCS_Hashima_Bag_MountainBag_Orange" chance="0.10" />
+        <item name="CCS_Hashima_Bag_MountainBag_Red" chance="0.10" />
+        <item name="CourierBag" chance="0.10" />
+        <item name="FurCourierBag" chance="0.10" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════════╗
+    ║ Attachments - attachmentsGlassesArmy ║
+    ╚══════════════════════════════════════╝
+-->
+    <attachments chance="0.05" name="attachmentsGlassesArmy">
+        <item name="AviatorGlasses" chance="0.25" />
+        <item name="TacticalGoggles" chance="0.10" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════════╗
+    ║ Attachments - attachmentsGlassesCity ║
+    ╚══════════════════════════════════════╝
+-->
+    <attachments chance="0.05" name="attachmentsGlassesCity">
+        <item name="DesignerGlasses" chance="0.10" />
+        <item name="SportGlasses_Black" chance="0.10" />
+        <item name="SportGlasses_Blue" chance="0.10" />
+        <item name="SportGlasses_Green" chance="0.10" />
+        <item name="SportGlasses_Orange" chance="0.10" />
+        <item name="ThickFramesGlasses" chance="0.10" />
+        <item name="ThinFramesGlasses" chance="0.10" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════════╗
+    ║ Attachments - attachmentsGlassesVillage ║
+    ╚═════════════════════════════════════════╝
+-->
+    <attachments chance="0.05" name="attachmentsGlassesVillage">
+        <item name="DesignerGlasses" chance="0.20" />
+        <item name="ThickFramesGlasses" chance="0.20" />
+        <item name="ThinFramesGlasses" chance="0.20" />
+    </attachments>
+<!--
+    ╔═══════════════════════════════════╗
+    ║ Attachments - attachmentsHandCity ║
+    ╚═══════════════════════════════════╝
+-->
+    <attachments chance="0.10" name="attachmentsHandCity">
+        <item name="BaseballBat" chance="1.00" />
+        <item name="Machete" chance="1.00" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════════╗
+    ║ Attachments - attachmentsHandIndustrial ║
+    ╚═════════════════════════════════════════╝
+-->
+    <attachments chance="0.15" name="attachmentsHandIndustrial">
+        <item name="Crowbar" chance="0.15" />
+        <item name="Pipe" chance="0.15" />
+        <item name="Sledgehammer" chance="0.15" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════════╗
+    ║ Attachments - attachmentsHandVillage ║
+    ╚══════════════════════════════════════╝
+-->
+    <attachments chance="0.15" name="attachmentsHandVillage">
+        <item name="Pickaxe" chance="0.15" />
+        <item name="Shovel" chance="0.15" />
+        <item name="WoodAxe" chance="0.15" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════╗
+    ║ Attachments - attachmentsHatCity ║
+    ╚══════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsHatCity">
+        <item name="CCS_Hashima_Clothing_BaseballCap_Beige" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Black" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Blue" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Camo" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Olive" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Oppa" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Pink" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BaseballCap_Red" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Beige" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Black" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Blue" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_DPM" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Dubok" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Flecktran" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_NavyBlue" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Olive" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Orange" chance="0.05" />
+        <item name="CCS_Hashima_Clothing_BoonieHat_Red" chance="0.05" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════╗
+    ║ Attachments - attachmentsHatFarm ║
+    ╚══════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsHatFarm">
+        <item name="FlatCap_BlackCheck" chance="0.10" />
+        <item name="FlatCap_BrownCheck" chance="0.10" />
+        <item name="FlatCap_GreyCheck" chance="0.10" />
+    </attachments>
+<!--
+    ╔═══════════════════════════════════╗
+    ║ Attachments - attachmentsHatMedic ║
+    ╚═══════════════════════════════════╝
+-->
+    <attachments chance="0.80" name="attachmentsHatMedic">
+        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Black" chance="0.25" />
+        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Green" chance="0.25" />
+        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Purple" chance="0.25" />
+        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Red" chance="0.25" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsHatOfficer ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsHatOfficer">
+        <item name="CCS_Hashima_Clothing_Officer_Cap" chance="1.00" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════╗
+    ║ Attachments - attachmentsHatPolice ║
+    ╚════════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsHatPolice">
+        <item name="CCS_Hashima_Clothing_Police_Cap_Black" chance="1.00" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════════╗
+    ║ Attachments - attachmentsHatPrisoner ║
+    ╚══════════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsHatPrisoner">
+        <item name="CCS_Hashima_Clothing_Prisoner_Cap" chance="1.00" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsHatVillage ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsHatVillage">
+        <item name="FlatCap_Black" chance="0.10" />
+        <item name="FlatCap_Blue" chance="0.10" />
+        <item name="FlatCap_Brown" chance="0.10" />
+        <item name="FlatCap_Grey" chance="0.10" />
+        <item name="FlatCap_Red" chance="0.10" />
+        <item name="RadarCap_Black" chance="0.10" />
+        <item name="RadarCap_Blue" chance="0.10" />
+        <item name="RadarCap_Brown" chance="0.10" />
+        <item name="RadarCap_Green" chance="0.10" />
+        <item name="RadarCap_Red" chance="0.10" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsHelmetArmy ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="0.60" name="attachmentsHelmetArmy">
+        <item name="TankerHelmet" chance="0.10" />
+        <item name="ZSh3PilotHelmet" chance="0.05" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════════════╗
+    ║ Attachments - attachmentsHelmetArmyHeavy ║
+    ╚══════════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsHelmetArmyHeavy">
+        <item name="Ssh68Helmet" chance="1.00" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsHelmetBike ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsHelmetBike">
+        <item name="CCS_Hashima_Clothing_DirtBikeHelmet_Black" chance="0.10" />
+        <item name="CCS_Hashima_Clothing_DirtBikeHelmet_Blue" chance="0.10" />
+        <item name="CCS_Hashima_Clothing_DirtBikeHelmet_Green" chance="0.10" />
+        <item name="CCS_Hashima_Clothing_DirtBikeHelmet_Red" chance="0.10" />
+        <item name="MotoHelmet_Black" chance="0.10" />
+        <item name="MotoHelmet_Blue" chance="0.10" />
+        <item name="MotoHelmet_Green" chance="0.10" />
+        <item name="MotoHelmet_Grey" chance="0.10" />
+        <item name="MotoHelmet_Lime" chance="0.10" />
+        <item name="MotoHelmet_White" chance="0.10" />
+        <item name="MotoHelmet_Yellow" chance="0.10" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════════════╗
+    ║ Attachments - attachmentsHelmetFirefighter ║
+    ╚════════════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsHelmetFirefighter">
+        <item name="CCS_Hashima_Clothing_Firefighter_Helmet_White" chance="1.00" />
+    </attachments>
+<!--
+    ╔═══════════════════════════════════════════╗
+    ║ Attachments - attachmentsHelmetIndustrial ║
+    ╚═══════════════════════════════════════════╝
+-->
+    <attachments chance="0.30" name="attachmentsHelmetIndustrial">
+        <item name="ConstructionHelmet_Blue" chance="0.10" />
+        <item name="ConstructionHelmet_Lime" chance="0.10" />
+        <item name="ConstructionHelmet_Orange" chance="0.10" />
+        <item name="ConstructionHelmet_Red" chance="0.10" />
+        <item name="ConstructionHelmet_White" chance="0.10" />
+        <item name="ConstructionHelmet_Yellow" chance="0.10" />
+        <item name="WeldingMask" chance="0.05" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════════╗
+    ║ Attachments - attachmentsHelmetSkate ║
+    ╚══════════════════════════════════════╝
+-->
+    <attachments chance="0.30" name="attachmentsHelmetSkate">
+        <item name="SkateHelmet_Black" chance="0.20" />
+        <item name="SkateHelmet_Blue" chance="0.20" />
+        <item name="SkateHelmet_Gray" chance="0.20" />
+        <item name="SkateHelmet_Green" chance="0.20" />
+        <item name="SkateHelmet_Red" chance="0.20" />
+    </attachments>
+<!--
+    ╔════════════════════════════════╗
+    ║ Attachments - attachmentsOptic ║
+    ╚════════════════════════════════╝
+-->
+    <attachments chance="0.10" name="attachmentsOptic">
+        <item name="ACOGOptic" chance="0.20" />
+        <item name="BUISOptic" chance="0.20" />
+        <item name="M4_T3NRDSOptic" chance="0.20" />
+        <item name="M68Optic" chance="0.20" />
+        <item name="ReflexOptic" chance="0.20" />
+    </attachments>
+<!--
+    ╔═══════════════════════════════════╗
+    ║ Attachments - attachmentsVestArmy ║
+    ╚═══════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsVestArmy">
+        <item name="SmershVest" chance="0.05" />
+        <item name="UKAssVest_Black" chance="0.20" />
+        <item name="UKAssVest_Camo" chance="0.20" />
+        <item name="UKAssVest_Khaki" chance="0.2" />
+        <item name="UKAssVest_Olive" chance="0.2" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════════╗
+    ║ Attachments - attachmentsVestArmyHeavy ║
+    ╚════════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsVestArmyHeavy">
+        <item name="CCS_Hashima_Clothing_Plate_Carrier_Vest_Black" chance="0.50" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════╗
+    ║ Attachments - attachmentsVestBlack ║
+    ╚════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsVestBlack">
+        <item name="CCS_Hashima_Clothing_Plate_Carrier_Vest_Black" chance="0.50" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════╗
+    ║ Attachments - attachmentsVestGreen ║
+    ╚════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsVestGreen">
+        <item name="CCS_Hashima_Clothing_Plate_Carrier_Vest_Green" chance="0.50" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsVestPurple ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsVestPurple">
+        <item name="CCS_Hashima_Clothing_Plate_Carrier_Vest_Purple" chance="0.50" />
+    </attachments>
+<!--
+    ╔══════════════════════════════════╗
+    ║ Attachments - attachmentsVestRed ║
+    ╚══════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsVestRed">
+        <item name="CCS_Hashima_Clothing_Plate_Carrier_Vest_Red" chance="0.50" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsVestHunter ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsVestHunter">
+        <item name="ChestHolster" chance="0.50" />
+        <item name="HuntingVest" chance="0.50" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════════╗
+    ║ Attachments - attachmentsVestIndustrial ║
+    ╚═════════════════════════════════════════╝
+-->
+    <attachments chance="0.10" name="attachmentsVestIndustrial">
+        <item name="ReflexVest" chance="1.00" />
+    </attachments>
+<!--
+    ╔═════════════════════════════════════╗
+    ║ Attachments - attachmentsVestPolice ║
+    ╚═════════════════════════════════════╝
+-->
+    <attachments chance="1.00" name="attachmentsVestPolice">
+        <item name="CCS_Hashima_Clothing_Police_Vest_Red" chance="0.50" />
+        <item name="CCS_Hashima_Clothing_Police_Vest_White" chance="0.50" />
+    </attachments>
+<!--
+    ╔════════════════════════════════════╗
+    ║ Attachments - attachmentsVestPress ║
+    ╚════════════════════════════════════╝
+-->
+    <attachments chance="0.20" name="attachmentsVestPress">
+        <item name="CCS_Hashima_Clothing_Press_Vest_Black" chance="0.25" />
+        <item name="CCS_Hashima_Clothing_Press_Vest_White" chance="0.25" />
+    </attachments>
+<!--
+    ╔═══════════════════════╗
+    ║ Cargo - cargoAmmoArmy ║
+    ╚═══════════════════════╝
+-->
+    <cargo chance="0.25" name="cargoAmmoArmy">
+        <item name="CCS_Hashima_Ammobox_45_Normal" chance="0.05" />
+        <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.05" />
+        <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.05" />
+        <item name="Ammo_45ACP" chance="0.20" />
+        <item name="Ammo_762x39" chance="0.20" />
+        <item name="Ammo_762x54" chance="0.20" />
     </cargo>
 <!--
-    ╔═════════════════════╗
-    ║ Cargo - foodVillage ║
-    ╚═════════════════════╝
+    ╔═══════════════════════╗
+    ║ Cargo - cargoAmmoCity ║
+    ╚═══════════════════════╝
 -->
-    <cargo chance="0.16" name="foodVillage">
-        <item name="CCS_Hashima_Beer_Asahi" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Chroa_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Chroa_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_3" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_4" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_5" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Hazy" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Hida_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Hida_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kamakura" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kujukuri_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kujukuri_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kirin" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Minoh" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Sapporo" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Shonan_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Toyoda" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Fanta" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Suntory" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
-        <item name="CCS_Hashima_Can_Cream_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
-        <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Powdered_Milk" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Bar_1" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Bar_2" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Bar_3" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Pea" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Kameda" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Koikeya" chance="0.05" />
+    <cargo chance="0.15" name="cargoAmmoCity">
+        <item name="CCS_Hashima_Ammobox_308_Normal" chance="0.08" />
+        <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.02" />
+        <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.02" />
+        <item name="CCS_Hashima_Ammobox_9x19_Normal" chance="0.08" />
+        <item name="Ammo_380" chance="0.22" />
+        <item name="Ammo_762x39" chance="0.12" />
+        <item name="Ammo_762x54" chance="0.08" />
+        <item name="Ammo_9x19" chance="0.15" />
     </cargo>
 <!--
-    ╔══════════════════╗
-    ║ Cargo - foodCity ║
-    ╚══════════════════╝
+    ╔═════════════════════════╗
+    ║ Cargo - cargoAmmoPolice ║
+    ╚═════════════════════════╝
 -->
-    <cargo chance="0.16" name="foodCity">
-        <item name="CCS_Hashima_Beer_Asahi" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Chroa_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Chroa_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_3" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_4" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Fujizakura_5" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Hazy" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Hida_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Hida_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kamakura" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kirin" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kujukuri_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Kujukuri_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Minoh" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Sapporo" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Shonan_2" chance="0.02" />
-        <item name="CCS_Hashima_Beer_Toyoda" chance="0.02" />
-        <item name="CCS_Hashima_Can_Cream_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
-        <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
-        <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
-        <item name="CCS_Hashima_Drink_Fanta" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Suntory" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
-        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
-        <item name="CCS_Hashima_Snack_Bar_1" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Bar_2" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Bar_3" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Kameda" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Koikeya" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Pea" chance="0.05" />
-        <item name="CCS_Hashima_Snack_Powdered_Milk" chance="0.05" />
+    <cargo chance="0.30" name="cargoAmmoPolice">
+        <item name="CCS_Hashima_Ammobox_545x39_Normal" chance="0.07" />
+        <item name="CCS_Hashima_Ammobox_556x45_Normal" chance="0.09" />
+        <item name="CCS_Hashima_Ammobox_9x19_Normal" chance="0.09" />
+        <item name="Ammo_545x39" chance="0.25" />
+        <item name="Ammo_556x45" chance="0.25" />
+        <item name="Ammo_9x19" chance="0.25" />
     </cargo>
 <!--
-    ╔══════════════════╗
-    ║ Cargo - foodArmy ║
-    ╚══════════════════╝
+    ╔════════════════════════════════╗
+    ║ Cargo - cargoContaminatedBlack ║
+    ╚════════════════════════════════╝
 -->
-    <cargo chance="0.1" name="foodArmy">
+    <cargo chance="0.20" name="cargoContaminatedBlack">
+        <item name="CCS_Hashima_Tool_Gas_Mask_Filter_Black" chance="1.00" />
+    </cargo>
+<!--
+    ╔════════════════════════════════╗
+    ║ Cargo - cargoContaminatedGreen ║
+    ╚════════════════════════════════╝
+-->
+    <cargo chance="0.20" name="cargoContaminatedGreen">
+        <item name="CCS_Hashima_Tool_Gas_Mask_Filter_Green" chance="1.00" />
+    </cargo>
+<!--
+    ╔═════════════════════════════════╗
+    ║ Cargo - cargoContaminatedPurple ║
+    ╚═════════════════════════════════╝
+-->
+    <cargo chance="0.20" name="cargoContaminatedPurple">
+        <item name="CCS_Hashima_Tool_Gas_Mask_Filter_Purple" chance="1.00" />
+    </cargo>
+<!--
+    ╔══════════════════════════════╗
+    ║ Cargo - cargoContaminatedRed ║
+    ╚══════════════════════════════╝
+-->
+    <cargo chance="0.20" name="cargoContaminatedRed">
+        <item name="CCS_Hashima_Tool_Gas_Mask_Filter_Red" chance="1.00" />
+    </cargo>
+<!--
+    ╔═══════════════════════╗
+    ║ Cargo - cargoFoodArmy ║
+    ╚═══════════════════════╝
+-->
+    <cargo chance="0.10" name="cargoFoodArmy">
         <item name="CCS_Hashima_Beer_Shonan_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Cream_1" chance="0.1" />
+        <item name="CCS_Hashima_Can_Cream_1" chance="0.10" />
         <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
         <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
         <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
         <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
         <item name="CCS_Hashima_Drink_Fanta" chance="0.05" />
         <item name="CCS_Hashima_Drink_Suntory" chance="0.05" />
-        <item name="CCS_Hashima_Tool_Canteen" chance="0.1" />
+        <item name="CCS_Hashima_Tool_Canteen" chance="0.10" />
     </cargo>
 <!--
-    ╔═════════════════════╗
-    ║ Cargo - toolsHermit ║
-    ╚═════════════════════╝
+    ╔═══════════════════════╗
+    ║ Cargo - cargoFoodCity ║
+    ╚═══════════════════════╝
 -->
-    <cargo chance="0.15" name="toolsHermit">
-        <item name="CanOpener" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Charcoal_Tablets" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Chlorine_Tablets" chance="0.05" />
-        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.15" />
-        <item name="CCS_Hashima_Tool_Weapon_Cleaning_Kit" chance="0.10" />
-        <item name="Hatchet" chance="0.07" />
-        <item name="HuntingKnife" chance="0.08" />
-        <item name="Rag" chance="0.07" />
-        <item name="Rope" chance="0.07" />
-        <item name="StoneKnife" chance="0.1" />
-    </cargo>
-<!--
-    ╔══════════════════════╗
-    ║ Cargo - toolsVillage ║
-    ╚══════════════════════╝
--->
-    <cargo chance="0.2" name="toolsVillage">
-        <item name="CanOpener" chance="0.05" />
-        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.07" />
-        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.07" />
-        <item name="CCS_Hashima_Tool_Sewing_Kit" chance="0.07" />
-        <item name="DuctTape" chance="0.07" />
-        <item name="Flashlight" chance="0.07" />
-        <item name="Rag" chance="0.07" />
-        <item name="Rope" chance="0.07" />
-    </cargo>
-<!--
-    ╔═══════════════════╗
-    ║ Cargo - toolsCity ║
-    ╚═══════════════════╝
--->
-    <cargo chance="0.2" name="toolsCity">
-        <item name="CanOpener" chance="0.05" />
-        <item name="CCS_Coin_Vending_Machine" chance="0.05" />
-        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.07" />
-        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.07" />
-        <item name="CCS_Hashima_Tool_Sewing_Kit" chance="0.07" />
-        <item name="DuctTape" chance="0.07" />
-        <item name="Flashlight" chance="0.07" />
-        <item name="Rag" chance="0.07" />
-        <item name="Rope" chance="0.07" />
-    </cargo>
-<!--
-    ╔════════════════════╗
-    ║ Cargo - toolsMedic ║
-    ╚════════════════════╝
--->
-    <cargo chance="0.35" name="toolsMedic">
-        <item name="CCS_Hashima_Medical_Bandage" chance="0.15" />
-        <item name="CCS_Hashima_Medical_Blood_Bag_Empty" chance="0.1" />
-        <item name="CCS_Hashima_Medical_Blood_Test_Kit" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Blood_Test_Kit" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Charcoal_Tablets" chance="0.1" />
-        <item name="CCS_Hashima_Medical_Chlorine_Tablets" chance="0.1" />
-        <item name="CCS_Hashima_Medical_Painkiller" chance="0.1" />
-        <item name="CCS_Hashima_Medical_Saline_Bag" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Tetracycline" chance="0.1" />
-        <item name="CCS_Hashima_Medical_Thermometer_1" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Vitamin_Bottle" chance="0.05" />
-    </cargo>
-<!--
-    ╔═════════════════════╗
-    ║ Cargo - toolsPolice ║
-    ╚═════════════════════╝
--->
-    <cargo chance="0.25" name="toolsPolice">
-        <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Morphine" chance="0.05" />
-        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.1" />
-        <item name="CombatKnife" chance="0.05" />
-        <item name="Flashlight" chance="0.15" />
-        <item name="PersonalRadio" chance="0.1" />
-        <item name="Roadflare" chance="0.2" />
-    </cargo>
-<!--
-    ╔═════════════════════╗
-    ║ Cargo - toolsPolice ║
-    ╚═════════════════════╝
--->
-    <cargo chance="0.15" name="toolsHunter">
-        <item name="CanOpener" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
-        <item name="CCS_Hashima_Medical_Charcoal_Tablets" chance="0.10" />
-        <item name="CCS_Hashima_Medical_Chlorine_Tablets" chance="0.10" />
-        <item name="CCS_Hashima_Medical_Painkiller" chance="0.10" />
-        <item name="CCS_Hashima_Medical_Vitamin_Bottle" chance="0.10" />
-        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.1" />
-        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.15" />
-        <item name="CCS_Hashima_Tool_Weapon_Cleaning_Kit" chance="0.10" />
-        <item name="Flashlight" chance="0.1" />
-        <item name="HuntingKnife" chance="0.05" />
-        <item name="Paper" chance="0.1" />
-        <item name="Roadflare" chance="0.1" />
+    <cargo chance="0.15" name="cargoFoodCity">
+        <item name="CCS_Hashima_Beer_Asahi" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Chroa_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Chroa_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_3" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_4" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_5" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Hazy" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Hida_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Hida_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kamakura" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kirin" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kujukuri_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kujukuri_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Minoh" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Sapporo" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Shonan_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Toyoda" chance="0.02" />
+        <item name="CCS_Hashima_Can_Cream_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
+        <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
+        <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
+        <item name="CCS_Hashima_Drink_Fanta" chance="0.02" />
+        <item name="CCS_Hashima_Drink_Suntory" chance="0.02" />
+        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
+        <item name="CCS_Hashima_Snack_Bar_1" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Bar_2" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Bar_3" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Kameda" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Koikeya" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Pea" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Powdered_Milk" chance="0.05" />
     </cargo>
 <!--
     ╔═════════════════════════╗
-    ║ Cargo - toolsIndustrial ║
+    ║ Cargo - cargoFoodHermit ║
     ╚═════════════════════════╝
 -->
-    <cargo chance="0.35" name="toolsIndustrial">
-        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.2" />
-        <item name="Crowbar" chance="0.07" />
-        <item name="DuctTape" chance="0.1" />
-        <item name="Flashlight" chance="0.2" />
-        <item name="Hatchet" chance="0.07" />
-        <item name="Pipe" chance="0.07" />
-        <item name="Rope" chance="0.1" />
+    <cargo chance="0.15" name="cargoFoodHermit">
+        <item name="CCS_Hashima_Can_Cream_1" chance="0.11" />
+        <item name="CCS_Hashima_Can_Sardine_1" chance="0.11" />
+        <item name="Apple" chance="0.07" />
+        <item name="GreenBellPepper" chance="0.10" />
+        <item name="Guts" chance="0.03" />
+        <item name="HumanSteakMeat" chance="0.03" />
+        <item name="PotatoSeed" chance="0.10" />
+        <item name="Tomato" chance="0.10" />
+        <item name="Zucchini" chance="0.10" />
     </cargo>
 <!--
-    ╔═══════════════════╗
-    ║ Cargo - ammoCivil ║
-    ╚═══════════════════╝
+    ╔══════════════════════════╗
+    ║ Cargo - cargoFoodVillage ║
+    ╚══════════════════════════╝
 -->
-    <cargo chance="0.15" name="ammoCivil">
-        <item name="Ammo_380" chance="0.22" />
-        <item name="Ammo_762x39" chance="0.12" />
-        <item name="Ammo_762x54" chance="0.08" />
-        <item name="Ammo_9x19" chance="0.15" />
+    <cargo chance="0.15" name="cargoFoodVillage">
+        <item name="CCS_Hashima_Beer_Asahi" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Chroa_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Chroa_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_3" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_4" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Fujizakura_5" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Hazy" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Hida_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Hida_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kamakura" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kujukuri_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kujukuri_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Kirin" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Minoh" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Sapporo" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Shonan_2" chance="0.02" />
+        <item name="CCS_Hashima_Beer_Toyoda" chance="0.02" />
+        <item name="CCS_Hashima_Drink_Fanta" chance="0.02" />
+        <item name="CCS_Hashima_Drink_Suntory" chance="0.02" />
+        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
+        <item name="CCS_Hashima_Drink_Water" chance="0.02" />
+        <item name="CCS_Hashima_Can_Cream_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
+        <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Powdered_Milk" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Bar_1" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Bar_2" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Bar_3" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Pea" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Kameda" chance="0.05" />
+        <item name="CCS_Hashima_Snack_Koikeya" chance="0.05" />
+    </cargo>
+<!--
+    ╔══════════════════════╗
+    ║ Cargo - cargoGrenade ║
+    ╚══════════════════════╝
+-->
+    <cargo chance="0.05" name="cargoGrenade">
+        <item name="FlashGrenade" chance="0.25" />
+        <item name="RDG2SmokeGrenade_Black" chance="0.25" />
+        <item name="RDG2SmokeGrenade_White" chance="0.25" />
+        <item name="RGD5Grenade" chance="0.25" />
+    </cargo>
+<!--
+    ╔══════════════════════╗
+    ║ Cargo - cargoMixArmy ║
+    ╚══════════════════════╝
+-->
+    <cargo chance="0.1" name="cargoMixArmy">
+        <item name="CCS_Hashima_Ammobox_45_Normal" chance="0.05" />
+        <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.05" />
+        <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.05" />
+        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Cream_1" chance="0.10" />
+        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
+        <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
+        <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
+        <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
+        <item name="CCS_Hashima_Drink_Fanta" chance="0.05" />
+        <item name="CCS_Hashima_Drink_Suntory" chance="0.05" />
+        <item name="CCS_Hashima_Tool_Canteen" chance="0.10" />
+        <item name="Ammo_45ACP" chance="0.20" />
+        <item name="Ammo_762x39" chance="0.20" />
+        <item name="Ammo_762x54" chance="0.20" />
+    </cargo>
+<!--
+    ╔════════════════════════╗
+    ║ Cargo - cargoMixHunter ║
+    ╚════════════════════════╝
+-->
+    <cargo chance="0.10" name="cargoMixHunter">
         <item name="CCS_Hashima_Ammobox_308_Normal" chance="0.08" />
         <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.02" />
         <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.02" />
         <item name="CCS_Hashima_Ammobox_9x19_Normal" chance="0.08" />
-    </cargo>
-<!--
-    ╔════════════════════╗
-    ║ Cargo - ammoPolice ║
-    ╚════════════════════╝
--->
-    <cargo chance="0.3" name="ammoPolice">
-        <item name="Ammo_545x39" chance="0.25" />
-        <item name="Ammo_556x45" chance="0.25" />
-        <item name="Ammo_9x19" chance="0.25" />
-        <item name="CCS_Hashima_Ammobox_545x39_Normal" chance="0.07" />
-        <item name="CCS_Hashima_Ammobox_556x45_Normal" chance="0.09" />
-        <item name="CCS_Hashima_Ammobox_9x19_Normal" chance="0.09" />
-    </cargo>
-<!--
-    ╔══════════════════╗
-    ║ Cargo - ammoArmy ║
-    ╚══════════════════╝
--->
-    <cargo chance="0.25" name="ammoArmy">
-        <item name="Ammo_45ACP" chance="0.2" />
-        <item name="Ammo_762x39" chance="0.2" />
-        <item name="Ammo_762x54" chance="0.2" />
-        <item name="CCS_Hashima_Ammobox_45_Normal" chance="0.05" />
-        <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.05" />
-        <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.05" />
-    </cargo>
-<!--
-    ╔════════════════════╗
-    ║ Cargo - mixVillage ║
-    ╚════════════════════╝
--->
-    <cargo chance="0.1" name="mixVillage">
+        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.08" />
+        <item name="CCS_Hashima_Can_Cream_1" chance="0.10" />
+        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.10" />
+        <item name="CCS_Hashima_Can_Mizkan" chance="0.09" />
+        <item name="CCS_Hashima_Can_Noodle_1" chance="0.09" />
+        <item name="CCS_Hashima_Can_Sardine_1" chance="0.10" />
+        <item name="CCS_Hashima_Drink_Fanta" chance="0.09" />
+        <item name="CCS_Hashima_Drink_Suntory" chance="0.09" />
+        <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.10" />
+        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.07" />
         <item name="Ammo_380" chance="0.22" />
         <item name="Ammo_762x39" chance="0.12" />
         <item name="Ammo_762x54" chance="0.08" />
         <item name="Ammo_9x19" chance="0.15" />
         <item name="CanOpener" chance="0.05" />
+        <item name="HuntingKnife" chance="0.05" />
+        <item name="Paper" chance="0.10" />
+        <item name="Roadflare" chance="0.2" />
+    </cargo>
+<!--
+    ╔═════════════════════════╗
+    ║ Cargo - cargoMixVillage ║
+    ╚═════════════════════════╝
+-->
+    <cargo chance="0.10" name="cargoMixVillage">
         <item name="CCS_Hashima_Ammobox_308_Normal" chance="0.08" />
         <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.02" />
         <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.02" />
@@ -292,535 +654,134 @@
         <item name="CCS_Hashima_Drink_Suntory" chance="0.09" />
         <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
         <item name="CCS_Hashima_Tool_9V_Battery" chance="0.07" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.10" />
         <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.07" />
-        <item name="DuctTape" chance="0.07" />
-        <item name="Flashlight" chance="0.1" />
-        <item name="KitchenKnife" chance="0.05" />
-        <item name="Roadflare" chance="0.2" />
-    </cargo>
-<!--
-    ╔═══════════════════╗
-    ║ Cargo - mixHunter ║
-    ╚═══════════════════╝
--->
-    <cargo chance="0.1" name="mixHunter">
         <item name="Ammo_380" chance="0.22" />
         <item name="Ammo_762x39" chance="0.12" />
         <item name="Ammo_762x54" chance="0.08" />
         <item name="Ammo_9x19" chance="0.15" />
         <item name="CanOpener" chance="0.05" />
-        <item name="CCS_Hashima_Ammobox_308_Normal" chance="0.08" />
-        <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.02" />
-        <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.02" />
-        <item name="CCS_Hashima_Ammobox_9x19_Normal" chance="0.08" />
-        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.08" />
-        <item name="CCS_Hashima_Can_Cream_1" chance="0.10" />
-        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.10" />
-        <item name="CCS_Hashima_Can_Mizkan" chance="0.09" />
-        <item name="CCS_Hashima_Can_Noodle_1" chance="0.09" />
-        <item name="CCS_Hashima_Can_Sardine_1" chance="0.10" />
-        <item name="CCS_Hashima_Drink_Fanta" chance="0.09" />
-        <item name="CCS_Hashima_Drink_Suntory" chance="0.09" />
-        <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
+        <item name="DuctTape" chance="0.07" />
+        <item name="KitchenKnife" chance="0.05" />
+        <item name="Roadflare" chance="0.20" />
+    </cargo>
+<!--
+    ╔═══════════════════════╗
+    ║ Cargo - cargoToolCity ║
+    ╚═══════════════════════╝
+-->
+    <cargo chance="0.20" name="cargoToolCity">
+        <item name="CCS_Coin_Vending_Machine" chance="0.05" />
+        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.07" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.07" />
         <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.07" />
-        <item name="Flashlight" chance="0.1" />
+        <item name="CCS_Hashima_Tool_Sewing_Kit" chance="0.07" />
+        <item name="CanOpener" chance="0.05" />
+        <item name="DuctTape" chance="0.07" />
+        <item name="Rag" chance="0.07" />
+        <item name="Rope" chance="0.07" />
+        <item name="SteakKnife" chance="0.20" />
+    </cargo>
+<!--
+    ╔═════════════════════════╗
+    ║ Cargo - cargoToolHermit ║
+    ╚═════════════════════════╝
+-->
+    <cargo chance="0.15" name="cargoToolHermit">
+        <item name="CCS_Hashima_Medical_Charcoal_Tablets" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Chlorine_Tablets" chance="0.05" />
+        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.15" />
+        <item name="CCS_Hashima_Tool_Weapon_Cleaning_Kit" chance="0.10" />
+        <item name="CanOpener" chance="0.05" />
+        <item name="Hatchet" chance="0.07" />
+        <item name="HuntingKnife" chance="0.08" />
+        <item name="Rag" chance="0.07" />
+        <item name="Rope" chance="0.07" />
+        <item name="StoneKnife" chance="0.10" />
+    </cargo>
+<!--
+    ╔═════════════════════════╗
+    ║ Cargo - cargoToolHunter ║
+    ╚═════════════════════════╝
+-->
+    <cargo chance="0.15" name="cargoToolHunter">
+        <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Charcoal_Tablets" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Chlorine_Tablets" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Painkiller" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Vitamin_Bottle" chance="0.10" />
+        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.10" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.10" />
+        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.15" />
+        <item name="CCS_Hashima_Tool_Weapon_Cleaning_Kit" chance="0.10" />
+        <item name="CanOpener" chance="0.05" />
         <item name="HuntingKnife" chance="0.05" />
-        <item name="Paper" chance="0.1" />
-        <item name="Roadflare" chance="0.2" />
+        <item name="Paper" chance="0.10" />
+        <item name="Roadflare" chance="0.10" />
     </cargo>
 <!--
-    ╔═════════════════╗
-    ║ Cargo - mixArmy ║
-    ╚═════════════════╝
+    ╔═════════════════════════════╗
+    ║ Cargo - cargoToolIndustrial ║
+    ╚═════════════════════════════╝
 -->
-    <cargo chance="0.1" name="mixArmy">
-        <item name="Ammo_45ACP" chance="0.2" />
-        <item name="Ammo_762x39" chance="0.2" />
-        <item name="Ammo_762x54" chance="0.2" />
-        <item name="CCS_Hashima_Ammobox_45_Normal" chance="0.05" />
-        <item name="CCS_Hashima_Ammobox_762x39_Normal" chance="0.05" />
-        <item name="CCS_Hashima_Ammobox_762x54_Normal" chance="0.05" />
-        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Cream_1" chance="0.1" />
-        <item name="CCS_Hashima_Can_Fruit_Peach" chance="0.05" />
-        <item name="CCS_Hashima_Can_Mizkan" chance="0.05" />
-        <item name="CCS_Hashima_Can_Noodle_1" chance="0.05" />
-        <item name="CCS_Hashima_Can_Sardine_1" chance="0.05" />
-        <item name="CCS_Hashima_Drink_Fanta" chance="0.05" />
-        <item name="CCS_Hashima_Drink_Suntory" chance="0.05" />
-        <item name="CCS_Hashima_Tool_Canteen" chance="0.1" />
-    </cargo>
-<!--
-    ╔══════════════════╗
-    ║ Cargo - grenades ║
-    ╚══════════════════╝
--->
-    <cargo chance="0.04" name="grenades">
-        <item name="FlashGrenade" chance="0.25" />
-        <item name="RDG2SmokeGrenade_Black" chance="0.25" />
-        <item name="RDG2SmokeGrenade_White" chance="0.25" />
-        <item name="RGD5Grenade" chance="0.25" />
-    </cargo>
-<!--
-    ╔═══════════════════════════╗
-    ║ Cargo - contaminatedCargo ║
-    ╚═══════════════════════════╝
--->
-    <cargo chance="0.2" name="contaminatedCargo">
-        <item name="GasMask_Filter" chance="1.00" />
-    </cargo>
-    <cargo chance="0.2" name="contaminatedCargoSpecialForce">
-        <item name="CCS_Hashima_Medical_Antidote" chance="0.3" />
-        <item name="GasMask_Filter" chance="1.00" />
-    </cargo>
-<!--
-    ╔═══════════════════╗
-    ║ Cargo - drinks_T1 ║
-    ╚═══════════════════╝
--->
-    <cargo chance="0.15" name="drinks_T1">
-        <item name="CCS_Hashima_Beer_Kamakura" chance="0.10" />
-        <item name="CCS_Hashima_Beer_Shonan_1" chance="0.10" />
-        <item name="CCS_Hashima_Drink_Fanta" chance="0.10" />
-        <item name="CCS_Hashima_Drink_Fanta" chance="0.10" />
-        <item name="CCS_Hashima_Drink_Suntory" chance="0.10" />
-        <item name="CCS_Hashima_Drink_Water" chance="0.1" />
-    </cargo>
-<!--
-    ╔═════════════════╗
-    ║ Cargo - food_T1 ║
-    ╚═════════════════╝
--->
-    <cargo chance="0.20" name="food_T1">
-        <item name="CCS_Hashima_Snack_Bar_1" chance="0.1" />
-        <item name="CCS_Hashima_Snack_Bar_2" chance="0.1" />
-        <item name="CCS_Hashima_Snack_Bar_3" chance="0.1" />
-        <item name="CCS_Hashima_Snack_Kameda" chance="0.2" />
-        <item name="CCS_Hashima_Snack_Koikeya" chance="0.2" />
-        <item name="CCS_Hashima_Snack_Pea" chance="0.2" />
-        <item name="CCS_Hashima_Snack_Powdered_Milk" chance="0.1" />
-        <item name="GreenBellPepper" chance="0.1" />
-        <item name="Guts" chance="0.03" />
-        <item name="HumanSteakMeat" chance="0.03" />
-        <item name="PotatoSeed" chance="0.1" />
-        <item name="Tomato" chance="0.1" />
-        <item name="Zucchini" chance="0.1" />
-    </cargo>
-<!--
-    ╔════════════════════════╗
-    ║ Cargo - toolsCommon_T1 ║
-    ╚════════════════════════╝
--->
-    <cargo chance="0.20" name="toolsCommon_T1">
-        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.1" />
-        <item name="Rag" chance="0.15" />
-        <item name="SteakKnife" chance="0.2" />
-    </cargo>
-<!--
-    ╔════════════════════════════╗
-    ║ Cargo - toolsIndustrial_T1 ║
-    ╚════════════════════════════╝
--->
-    <cargo chance="0.15" name="toolsIndustrial_T1">
-        <item name="Crowbar" chance="0.1" />
-        <item name="Hammer" chance="0.2" />
-        <item name="Hatchet" chance="0.05" />
-        <item name="Paper" chance="0.2" />
-        <item name="Pipe" chance="0.2" />
-        <item name="Rag" chance="0.1" />
+    <cargo chance="0.35" name="cargoToolIndustrial">
+        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.20" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.20" />
+        <item name="Crowbar" chance="0.07" />
+        <item name="DuctTape" chance="0.10" />
+        <item name="Hammer" chance="0.20" />
+        <item name="Hatchet" chance="0.07" />
+        <item name="Paper" chance="0.20" />
+        <item name="Pipe" chance="0.07" />
+        <item name="Rag" chance="0.10" />
+        <item name="Rope" chance="0.10" />
         <item name="Screwdriver" chance="0.15" />
     </cargo>
 <!--
-    ╔══════════════════════╗
-    ║ Attachments - optics ║
-    ╚══════════════════════╝
--->
-    <attachments chance="0.10" name="optics">
-        <item name="ACOGOptic" chance="0.20" />
-        <item name="BUISOptic" chance="0.20" />
-        <item name="M4_T3NRDSOptic" chance="0.20" />
-        <item name="M68Optic" chance="0.20" />
-        <item name="ReflexOptic" chance="0.20" />
-    </attachments>
-<!--
     ╔════════════════════════╗
-    ║ Attachments - hatsFarm ║
+    ║ Cargo - cargoToolMedic ║
     ╚════════════════════════╝
 -->
-    <attachments chance="0.20" name="hatsFarm">
-        <item name="Ushanka_Black" chance="0.10" />
-        <item name="Ushanka_Blue" chance="0.10" />
-        <item name="Ushanka_Green" chance="0.10" />
-        <item name="ZmijovkaCap_Black" chance="0.10" />
-        <item name="ZmijovkaCap_Blue" chance="0.10" />
-        <item name="ZmijovkaCap_Brown" chance="0.10" />
-        <item name="ZmijovkaCap_Green" chance="0.10" />
-        <item name="ZmijovkaCap_Red" chance="0.10" />
-    </attachments>
-<!--
-    ╔══════════════════════════╗
-    ║ Attachments - bagsHunter ║
-    ╚══════════════════════════╝
--->
-    <attachments chance="0.10" name="bagsHunter">
-        <item name="CourierBag" chance="0.10" />
-        <item name="HuntingBag" chance="0.50" />
-    </attachments>
-<!--
-    ╔═══════════════════════════╗
-    ║ Attachments - vestsHunter ║
-    ╚═══════════════════════════╝
--->
-    <attachments chance="0.20" name="vestsHunter">
-        <item name="ChestHolster" chance="0.50" />
-        <item name="HuntingVest" chance="0.50" />
-    </attachments>
-<!--
-    ╔═══════════════════════════╗
-    ║ Attachments - hatsVillage ║
-    ╚═══════════════════════════╝
--->
-    <attachments chance="0.20" name="hatsVillage">
-        <item name="FlatCap_Black" chance="0.10" />
-        <item name="FlatCap_BlackCheck" chance="0.10" />
-        <item name="FlatCap_Blue" chance="0.10" />
-        <item name="FlatCap_Brown" chance="0.10" />
-        <item name="FlatCap_BrownCheck" chance="0.10" />
-        <item name="FlatCap_Grey" chance="0.10" />
-        <item name="FlatCap_GreyCheck" chance="0.10" />
-        <item name="FlatCap_Red" chance="0.10" />
-        <item name="RadarCap_Black" chance="0.10" />
-        <item name="RadarCap_Blue" chance="0.10" />
-        <item name="RadarCap_Brown" chance="0.10" />
-        <item name="RadarCap_Green" chance="0.10" />
-        <item name="RadarCap_Red" chance="0.10" />
-    </attachments>
-<!--
-    ╔════════════════════════════╗
-    ║ Attachments - handsVillage ║
-    ╚════════════════════════════╝
--->
-    <attachments chance="0.20" name="handsVillage">
-        <item name="Pickaxe" chance="0.8" />
-        <item name="Shovel" chance="0.8" />
-        <item name="WoodAxe" chance="0.1" />
-    </attachments>
-<!--
-    ╔═══════════════════════════╗
-    ║ Attachments - bagsVillage ║
-    ╚═══════════════════════════╝
--->
-    <attachments chance="0.15" name="bagsVillage">
-        <item name="CCS_Hashima_Bag_MountainBag_Blue" chance="0.10" />
-        <item name="CCS_Hashima_Bag_MountainBag_Green" chance="0.10" />
-        <item name="CCS_Hashima_Bag_MountainBag_Orange" chance="0.10" />
-        <item name="CCS_Hashima_Bag_MountainBag_Red" chance="0.10" />
-    </attachments>
-<!--
-    ╔══════════════════════════════╗
-    ║ Attachments - glassesVillage ║
-    ╚══════════════════════════════╝
--->
-    <attachments chance="0.00" name="glassesVillage">
-        <item name="DesignerGlasses" chance="0.20" />
-        <item name="ThickFramesGlasses" chance="0.10" />
-        <item name="ThinFramesGlasses" chance="0.20" />
-    </attachments>
-<!--
-    ╔════════════════════════╗
-    ║ Attachments - hatsCity ║
-    ╚════════════════════════╝
--->
-    <attachments chance="0.20" name="hatsCity">
-        <item name="CCS_Hashima_Clothing_BaseballCap_Beige" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Black" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Blue" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Camo" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Olive" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Oppa" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Pink" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BaseballCap_Red" chance="0.05" />
-        <item name="FlatCap_BlackCheck" chance="0.10" />
-        <item name="FlatCap_BrownCheck" chance="0.10" />
-        <item name="FlatCap_GreyCheck" chance="0.10" />
-    </attachments>
+    <cargo chance="0.35" name="cargoToolMedic">
+        <item name="CCS_Hashima_Medical_Bandage" chance="0.15" />
+        <item name="CCS_Hashima_Medical_Blood_Bag_Empty" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Blood_Test_Kit" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Blood_Test_Kit" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Charcoal_Tablets" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Chlorine_Tablets" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Painkiller" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Saline_Bag" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Tetracycline" chance="0.10" />
+        <item name="CCS_Hashima_Medical_Thermometer_1" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Vitamin_Bottle" chance="0.05" />
+    </cargo>
 <!--
     ╔═════════════════════════╗
-    ║ Attachments - handsCity ║
+    ║ Cargo - cargoToolPolice ║
     ╚═════════════════════════╝
 -->
-    <attachments chance="0.10" name="handsCity">
-        <item name="BaseballBat" chance="1.0" />
-        <item name="Machete" chance="1.0" />
-        <item name="NailedBaseballBat" chance="1.0" />
-    </attachments>
-<!--
-    ╔═══════════════════════════╗
-    ║ Attachments - glassesCity ║
-    ╚═══════════════════════════╝
--->
-    <attachments chance="0.00" name="glassesCity">
-        <item name="DesignerGlasses" chance="0.10" />
-        <item name="SportGlasses_Black" chance="0.10" />
-        <item name="SportGlasses_Blue" chance="0.10" />
-        <item name="SportGlasses_Green" chance="0.10" />
-        <item name="SportGlasses_Orange" chance="0.10" />
-        <item name="ThickFramesGlasses" chance="0.10" />
-        <item name="ThinFramesGlasses" chance="0.10" />
-    </attachments>
-<!--
-    ╔════════════════════════╗
-    ║ Attachments - bagsCity ║
-    ╚════════════════════════╝
--->
-    <attachments chance="0.15" name="bagsCity">
-        <item name="CCS_Hashima_Bag_HikingBag_Blue" chance="0.25" />
-        <item name="CCS_Hashima_Bag_HikingBag_Green" chance="0.25" />
-        <item name="CCS_Hashima_Bag_HikingBag_Pink" chance="0.25" />
-        <item name="CCS_Hashima_Bag_HikingBag_Red" chance="0.25" />
-        <item name="CCS_Hashima_Bag_HikingBag_Yellow" chance="0.25" />
-    </attachments>
-<!--
-    ╔═════════════════════════════╗
-    ║ Attachments - hatsCitySkate ║
-    ╚═════════════════════════════╝
--->
-    <attachments chance="0.30" name="hatsCitySkate">
-        <item name="SkateHelmet_Black" chance="0.20" />
-        <item name="SkateHelmet_Blue" chance="0.20" />
-        <item name="SkateHelmet_Gray" chance="0.20" />
-        <item name="SkateHelmet_Green" chance="0.20" />
-        <item name="SkateHelmet_Red" chance="0.20" />
-    </attachments>
-<!--
-    ╔══════════════════════════════╗
-    ║ Attachments - hatsIndustrial ║
-    ╚══════════════════════════════╝
--->
-    <attachments chance="0.30" name="hatsIndustrial">
-        <item name="ConstructionHelmet_Blue" chance="0.10" />
-        <item name="ConstructionHelmet_Lime" chance="0.10" />
-        <item name="ConstructionHelmet_Orange" chance="0.10" />
-        <item name="ConstructionHelmet_Red" chance="0.10" />
-        <item name="ConstructionHelmet_White" chance="0.10" />
-        <item name="ConstructionHelmet_Yellow" chance="0.10" />
-        <item name="WeldingMask" chance="0.05" />
-    </attachments>
-<!--
-    ╔═══════════════════════════════╗
-    ║ Attachments - handsIndustrial ║
-    ╚═══════════════════════════════╝
--->
-    <attachments chance="0.15" name="handsIndustrial">
-        <item name="Crowbar" chance="0.15" />
-        <item name="Pipe" chance="0.15" />
-        <item name="Sledgehammer" chance="0.15" />
-    </attachments>
-<!--
-    ╔═══════════════════════════════╗
-    ║ Attachments - vestsIndustrial ║
-    ╚═══════════════════════════════╝
--->
-    <attachments chance="0.10" name="vestsIndustrial">
-        <item name="ReflexVest" chance="1.00" />
-    </attachments>
-<!--
-    ╔══════════════════════════════╗
-    ║ Attachments - bagsIndustrial ║
-    ╚══════════════════════════════╝
--->
-    <attachments chance="0.05" name="bagsIndustrial">
-        <item name="CCS_Hashima_Bag_DryBag_Black" chance="0.1" />
-        <item name="CCS_Hashima_Bag_DryBag_Blue" chance="0.20" />
-        <item name="CCS_Hashima_Bag_DryBag_Green" chance="0.1" />
-        <item name="CCS_Hashima_Bag_DryBag_Orange" chance="0.20" />
-        <item name="CCS_Hashima_Bag_DryBag_Red" chance="0.20" />
-        <item name="CCS_Hashima_Bag_DryBag_Yellow" chance="0.20" />
-    </attachments>
-<!--
-    ╔═══════════════════════════════╗
-    ║ Attachments - hatsFirefighter ║
-    ╚═══════════════════════════════╝
--->
-    <attachments chance="1.00" name="hatsFirefighter">
-        <item name="CCS_Hashima_Clothing_Firefighter_Helmet_White" chance="1.00" />
-    </attachments>
-<!--
-    ╔═════════════════════════╗
-    ║ Attachments - hatsMedic ║
-    ╚═════════════════════════╝
--->
-    <attachments chance="0.80" name="hatsMedic">
-        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Black" chance="0.25" />
-        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Green" chance="0.25" />
-        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Purple" chance="0.25" />
-        <item name="CCS_Hashima_Clothing_MedicalScrubs_Hat_Red" chance="0.25" />
-    </attachments>
-<!--
-    ╔════════════════════════╗
-    ║ Attachments - hatsArmy ║
-    ╚════════════════════════╝
--->
-    <attachments chance="0.60" name="hatsArmy">
-        <item name="PilotkaCap" chance="0.10" />
-        <item name="TankerHelmet" chance="0.10" />
-        <item name="ZSh3PilotHelmet" chance="0.05" />
-    </attachments>
-<!--
-    ╔═══════════════════════════╗
-    ║ Attachments - glassesArmy ║
-    ╚═══════════════════════════╝
--->
-    <attachments chance="0.00" name="glassesArmy">
-        <item name="AviatorGlasses" chance="0.25" />
-        <item name="TacticalGoggles" chance="0.10" />
-    </attachments>
-<!--
-    ╔═════════════════════════╗
-    ║ Attachments - vestsArmy ║
-    ╚═════════════════════════╝
--->
-    <attachments chance="0.20" name="vestsArmy">
-        <item name="SmershVest" chance="0.05" />
-        <item name="UKAssVest_Black" chance="0.20" />
-        <item name="UKAssVest_Camo" chance="0.20" />
-        <item name="UKAssVest_Khaki" chance="0.2" />
-        <item name="UKAssVest_Olive" chance="0.2" />
-    </attachments>
-<!--
-    ╔════════════════════════╗
-    ║ Attachments - bagsArmy ║
-    ╚════════════════════════╝
--->
-    <attachments chance="0.15" name="bagsArmy">
-        <item name="AliceBag_Black" chance="0.05" />
-        <item name="AliceBag_Camo" chance="0.05" />
-        <item name="AliceBag_Green" chance="0.05" />
-        <item name="AssaultBag_Black" chance="0.10" />
-        <item name="AssaultBag_Green" chance="0.10" />
-        <item name="AssaultBag_Ttsko" chance="0.10" />
-        <item name="CoyoteBag_Brown" chance="0.05" />
-        <item name="CoyoteBag_Green" chance="0.05" />
-        <item name="SmershBag" chance="0.05" />
-        <item name="TortillaBag" chance="0.05" />
-    </attachments>
-<!--
-    ╔══════════════════════════════╗
-    ║ Attachments - heavyArmorArmy ║
-    ╚══════════════════════════════╝
--->
-    <attachments chance="1.00" name="heavyArmorArmy">
-        <item name="PlateCarrierVest_Black" chance="1.0" />
-    </attachments>
-<!--
-    ╔═══════════════════════════════╗
-    ║ Attachments - heavyHelmetArmy ║
-    ╚═══════════════════════════════╝
--->
-    <attachments chance="1.00" name="heavyHelmetArmy">
-        <item name="Ssh68Helmet" chance="1.00" />
-    </attachments>
-<!--
-    ╔══════════════════════════════╗
-    ║ Attachments - officerHatArmy ║
-    ╚══════════════════════════════╝
--->
-    <attachments chance="1.00" name="officerHatArmy">
-        <item name="CCS_Hashima_Clothing_Officer_Cap" chance="1.00" />
-    </attachments>
+    <cargo chance="0.25" name="cargoToolPolice">
+        <item name="CCS_Hashima_Medical_Bandage" chance="0.05" />
+        <item name="CCS_Hashima_Medical_Morphine" chance="0.05" />
+        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.10" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.15" />
+        <item name="CombatKnife" chance="0.05" />
+        <item name="PersonalRadio" chance="0.10" />
+        <item name="Roadflare" chance="0.20" />
+    </cargo>
 <!--
     ╔══════════════════════════╗
-    ║ Attachments - hatsPolice ║
+    ║ Cargo - cargoToolVillage ║
     ╚══════════════════════════╝
 -->
-    <attachments chance="0.20" name="hatsPolice">
-        <item name="CCS_Hashima_Clothing_Police_Cap_Black" chance="1.00" />
-    </attachments>
-<!--
-    ╔═══════════════════════════╗
-    ║ Attachments - vestsPolice ║
-    ╚═══════════════════════════╝
--->
-    <attachments chance="1.00" name="vestsPolice">
-        <item name="CCS_Hashima_Clothing_Police_Vest_Red" chance="0.50" />
-        <item name="CCS_Hashima_Clothing_Police_Vest_White" chance="0.50" />
-    </attachments>
-<!--
-    ╔════════════════════════════╗
-    ║ Attachments - hatsPrisoner ║
-    ╚════════════════════════════╝
--->
-    <attachments chance="0.20" name="hatsPrisoner">
-        <item name="CCS_Hashima_Clothing_Prisoner_Cap" chance="1.00" />
-    </attachments>
-<!--
-    ╔═════════════════════════════╗
-    ║ Attachments - hatsMotorbike ║
-    ╚═════════════════════════════╝
--->
-    <attachments chance="0.20" name="hatsMotorbike">
-        <item name="DarkMotoHelmet_Black" chance="0.05" />
-        <item name="DarkMotoHelmet_Blue" chance="0.05" />
-        <item name="DarkMotoHelmet_Green" chance="0.05" />
-        <item name="DarkMotoHelmet_Grey" chance="0.05" />
-        <item name="DarkMotoHelmet_Lime" chance="0.05" />
-        <item name="DarkMotoHelmet_Red" chance="0.05" />
-        <item name="DarkMotoHelmet_White" chance="0.05" />
-        <item name="MotoHelmet_Black" chance="0.10" />
-        <item name="MotoHelmet_Blue" chance="0.10" />
-        <item name="MotoHelmet_Green" chance="0.10" />
-        <item name="MotoHelmet_Grey" chance="0.10" />
-        <item name="MotoHelmet_Lime" chance="0.10" />
-        <item name="MotoHelmet_Red" chance="0.10" />
-        <item name="MotoHelmet_White" chance="0.10" />
-    </attachments>
-<!--
-    ╔══════════════════════════╗
-    ║ Attachments - vestsPress ║
-    ╚══════════════════════════╝
--->
-    <attachments chance="0.20" name="vestsPress">
-        <item name="CCS_Hashima_Clothing_Press_Vest_Black" chance="0.25" />
-        <item name="CCS_Hashima_Clothing_Press_Vest_White" chance="0.25" />
-    </attachments>
-<!--
-    ╔════════════════════════════════╗
-    ║ Attachments - helmetsCommon_T1 ║
-    ╚════════════════════════════════╝
--->
-    <attachments chance="0.2" name="helmetsCommon_T1">
-        <item name="SkateHelmet_Black" chance="0.1" />
-        <item name="SkateHelmet_Blue" chance="0.1" />
-        <item name="SkateHelmet_Gray" chance="0.1" />
-        <item name="SkateHelmet_Green" chance="0.1" />
-        <item name="SkateHelmet_Red" chance="0.1" />
-    </attachments>
-<!--
-    ╔═════════════════════════════╗
-    ║ Attachments - hatsCommon_T1 ║
-    ╚═════════════════════════════╝
--->
-    <attachments chance="0.2" name="hatsCommon_T1">
-        <item name="CCS_Hashima_Clothing_BoonieHat_Blue" chance="0.05" />
-        <item name="CCS_Hashima_Clothing_BoonieHat_Orange" chance="0.1" />
-        <item name="CCS_Hashima_Clothing_BoonieHat_Red" chance="0.1" />
-        <item name="RadarCap_Black" chance="0.05" />
-        <item name="RadarCap_Blue" chance="0.1" />
-        <item name="RadarCap_Brown" chance="0.05" />
-        <item name="RadarCap_Green" chance="0.1" />
-        <item name="RadarCap_Red" chance="0.1" />
-    </attachments>
-<!--
-    ╔════════════════════════════╗
-    ║ Attachments - backpacks_T1 ║
-    ╚════════════════════════════╝
--->
-    <attachments chance="0.17" name="backpacks_T1">
-        <item name="CCS_Hashima_Bag_HikingBag_Blue" chance="0.2" />
-        <item name="CCS_Hashima_Bag_HikingBag_Green" chance="0.1" />
-        <item name="CCS_Hashima_Bag_HikingBag_Pink" chance="0.2" />
-        <item name="CCS_Hashima_Bag_HikingBag_Yellow" chance="0.2" />
-        <item name="CourierBag" chance="0.2" />
-        <item name="FurCourierBag" chance="0.1" />
-    </attachments>
+    <cargo chance="0.20" name="cargoToolVillage">
+        <item name="CCS_Hashima_Tool_9V_Battery" chance="0.07" />
+        <item name="CCS_Hashima_Tool_Flashlight" chance="0.07" />
+        <item name="CCS_Hashima_Tool_Matchbox_1" chance="0.07" />
+        <item name="CCS_Hashima_Tool_Sewing_Kit" chance="0.07" />
+        <item name="CanOpener" chance="0.05" />
+        <item name="DuctTape" chance="0.07" />
+        <item name="Rag" chance="0.07" />
+        <item name="Rope" chance="0.07" />
+    </cargo>
 </randompresets>

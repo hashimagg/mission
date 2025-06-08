@@ -1,5 +1,5 @@
 {
-    "version": 127,
+    "version": 128,
     "GeneralData":
     {
         "disableBaseDamage": false,
@@ -45,6 +45,11 @@
             "staminaDepletionSpeed": 10.0,
             "healthDepletionSpeed": 10.0,
             "shockDepletionSpeed": 10.0
+        },
+        "WeaponObstructionData":
+        {
+            "staticMode": 1,
+            "dynamicMode": 1
         }
     },
     "WorldsData":

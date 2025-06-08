@@ -5,6 +5,32 @@
     ║ CCS - Types - Bag ║
     ╚═══════════════════╝
 -->
+    <type name="CCS_Hashima_Bag_CanvasBag_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Bag_CanvasBag_Medical">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Medic" />
+    </type>
+
     <type name="CCS_Hashima_Bag_ChildBag_Blue">
         <nominal>4</nominal>
         <lifetime>7200</lifetime>
@@ -47,6 +73,7 @@
         <usage name="Village" />
         <usage name="School" />
     </type>
+
     <type name="CCS_Hashima_Bag_DryBag_Black">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
@@ -131,6 +158,45 @@
         <usage name="Town" />
         <usage name="Village" />
     </type>
+
+    <type name="CCS_Hashima_Bag_DuffelBag_Blue">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CCS_Hashima_Bag_DuffelBag_Camo">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Military" />
+    </type>
+    <type name="CCS_Hashima_Bag_DuffelBag_Medical">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Medic" />
+    </type>
+
     <type name="CCS_Hashima_Bag_HikingBag_Blue">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
@@ -211,6 +277,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Bag_HipPack_Black">
         <nominal>2</nominal>
         <lifetime>3600</lifetime>
@@ -259,6 +326,7 @@
         <category name="containers" />
         <usage name="Town" />
     </type>
+
     <type name="CCS_Hashima_Bag_MountainBag_Blue">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
@@ -323,6 +391,7 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
     <type name="CCS_Hashima_Bag_WaterproofBag_Green">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>

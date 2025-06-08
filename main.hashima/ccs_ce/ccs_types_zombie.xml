@@ -129,7 +129,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
 
-    <type name="CCS_Hashima_Zombie_F_Clerk_Fat_Blue">
+    <type name="CCS_Hashima_Zombie_F_Clerk_Fat_Black">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -139,7 +139,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_F_Clerk_Fat_Black">
+    <type name="CCS_Hashima_Zombie_F_Clerk_Fat_Blue">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -822,7 +822,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Green">
+    <type name="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Gray">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -832,7 +832,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Gray">
+    <type name="CCS_Hashima_Zombie_M_ConstructionWorker_Normal_Green">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -967,7 +967,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_M_Handyman_Normal_Green">
+    <type name="CCS_Hashima_Zombie_M_Handyman_Normal_Gray">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -977,7 +977,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_M_Handyman_Normal_Gray">
+    <type name="CCS_Hashima_Zombie_M_Handyman_Normal_Green">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -1172,7 +1172,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_M_Jacket_Normal_GreenChecks">
+    <type name="CCS_Hashima_Zombie_M_Jacket_Normal_Gray">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -1182,7 +1182,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    <type name="CCS_Hashima_Zombie_M_Jacket_Normal_Gray">
+    <type name="CCS_Hashima_Zombie_M_Jacket_Normal_GreenChecks">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>

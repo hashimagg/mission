@@ -6,23 +6,26 @@
     ╚════════════════════════════════╝
 -->
     <type name="CCS_Hashima_Medical_Bandage">
-        <damage min="0.0" max="0.0" />
+        <damage min="0.00" max="0.00" />
     </type>
     <type name="CCS_Hashima_Medical_First_Aid_kit">
         <tag name="shelves" />
-        <cargo chance="1">
+        <cargo chance="1.00">
             <item name="CCS_Hashima_Medical_Bandage" />
         </cargo>
-        <cargo chance="0.8">
+        <cargo chance="0.80">
             <item name="CCS_Hashima_Medical_Thermometer_1" />
         </cargo>
-        <cargo chance="0.8">
+        <cargo chance="0.80">
+            <item name="CCS_Hashima_Medical_Thermometer_2" />
+        </cargo>
+        <cargo chance="0.80">
             <item name="CCS_Hashima_Medical_IV_Start_Kit" />
         </cargo>
-        <cargo chance="0.8">
+        <cargo chance="0.80">
             <item name="CCS_Hashima_Medical_Blood_Bag_Empty" />
         </cargo>
-        <cargo chance="0.8">
+        <cargo chance="0.80">
             <item name="CCS_Hashima_Medical_Blood_Test_Kit" />
         </cargo>
     </type>

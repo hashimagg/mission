@@ -11,7 +11,6 @@
 
     <event name="InfectedArmy" />
     <event name="InfectedArmyHeavy" />
-    <event name="InfectedCity" />
     <event name="InfectedCityTier1" />
     <event name="InfectedCityTier2" />
     <event name="InfectedCityTier3" />

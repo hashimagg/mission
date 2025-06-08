@@ -6,7 +6,7 @@
     ╚═══════════════════════════════╝
 -->
     <type name="CCS_HowaType20">
-        <damage min="0.3" max="0.7" />
+        <damage min="0.30" max="0.70" />
         <attachments chance="1.00">
             <item name="CCS_HowaType20_Handguard" chance="1.00" />
         </attachments>
@@ -18,7 +18,7 @@
         </attachments>
     </type>
     <type name="CCS_RokuohShaType89">
-        <damage min="0.3" max="0.7" />
+        <damage min="0.30" max="0.70" />
         <attachments chance="1.00">
             <item name="CCS_RokuohShaType89_Optic" chance="1.00" />
         </attachments>

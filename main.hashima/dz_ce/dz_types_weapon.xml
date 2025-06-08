@@ -687,18 +687,6 @@
         <category name="weapons" />
         <usage name="Military" />
     </type>
-    <type name="PP19_Bttstck">
-        <nominal>0</nominal>
-        <lifetime>5400</lifetime>
-        <restock>3600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="weapons" />
-        <usage name="Military" />
-    </type>
     <type name="Saiga_Bttstck">
         <nominal>0</nominal>
         <lifetime>5400</lifetime>
@@ -716,33 +704,6 @@
     ║ DZ - Types - Weapon - Explosive ║
     ╚═════════════════════════════════╝
 -->
-    <type name="ClaymoreMine">
-        <nominal>3</nominal>
-        <lifetime>5400</lifetime>
-        <restock>900</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="explosives" />
-        <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
-    </type>
-    <type name="FireworksLauncher">
-        <nominal>3</nominal>
-        <lifetime>5400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <usage name="Town" />
-        <usage name="Village" />
-    </type>
     <type name="FlashGrenade">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
@@ -845,20 +806,6 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
-    <type name="Plastic_Explosive">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="explosives" />
-        <usage name="Military" />
-        <value name="Tier3" />
-        <value name="Tier4" />
-    </type>
     <type name="RDG2SmokeGrenade_Black">
         <nominal>6</nominal>
         <lifetime>7200</lifetime>
@@ -884,29 +831,6 @@
         <category name="explosives" />
         <usage name="Military" />
         <usage name="Police" />
-    </type>
-    <type name="RemoteDetonator">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="explosives" />
-        <usage name="Military" />
-        <value name="Tier2" />
-        <value name="Tier3" />
-        <value name="Tier4" />
-    </type>
-    <type name="RemoteDetonatorReceiver">
-        <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    </type>
-    <type name="RemoteDetonatorTrigger">
-        <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="RGD5Grenade">
         <nominal>7</nominal>
@@ -1488,7 +1412,7 @@
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
-    <type name="PP19">
+    <type name="PM73Rak">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>900</restock>
@@ -1502,11 +1426,25 @@
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
+    <type name="R12">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
     <type name="Repeater">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>4</min>
+        <min>3</min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -1516,7 +1454,6 @@
         <usage name="Village" />
         <value name="Tier1" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="Ruger1022">
         <nominal>8</nominal>
@@ -2192,7 +2129,19 @@
         <value name="Tier2" />
         <value name="Tier3" />
     </type>
-    <type name="Mag_PP19_64Rnd">
+    <type name="Mag_PM73_15Rnd">
+        <nominal>10</nominal>
+        <lifetime>5400</lifetime>
+        <restock>900</restock>
+        <min>8</min>
+        <quantmin>10</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+    </type>
+    <type name="Mag_PM73_25Rnd">
         <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>900</restock>
@@ -2517,6 +2466,21 @@
         <category name="weapons" />
         <usage name="Military" />
     </type>
+    <type name="MK4Optic_Black">
+        <nominal>2</nominal>
+        <lifetime>5400</lifetime>
+        <restock>300</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
     <type name="M4_T3NRDSOptic">
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
@@ -2561,10 +2525,10 @@
         <value name="Tier4" />
     </type>
     <type name="PSO11Optic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2576,16 +2540,30 @@
         <value name="Tier4" />
     </type>
     <type name="PSO1Optic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
+    </type>
+    <type name="PSO6Optic">
+        <nominal>4</nominal>
+        <lifetime>5400</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
     </type>
     <type name="PUScopeOptic">
         <nominal>8</nominal>
@@ -2628,6 +2606,20 @@
         <category name="weapons" />
         <usage name="Military" />
         <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SportingOptic">
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
+        <restock>900</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
         <value name="Tier2" />
         <value name="Tier3" />
     </type>

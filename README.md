@@ -6,6 +6,8 @@ Mission files for Hashima Islands, a DayZ Modded Map inspired by Hashima, common
 
 ## File Structure
 
+##### Economy Editor Source Files:
+
 ```
 ce.hashima/
 ├── layers/
@@ -28,10 +30,14 @@ ce.hashima/
 └── hashima.xml
 ```
 
+##### Empty Mission Files:
+
 ```
 empty.hashima/
 └── init.c
 ```
+
+##### Vanilla Mission Files:
 
 ```
 main.hashima/
@@ -117,49 +123,59 @@ main.hashima/
 └── mapgroupproto.xml
 ```
 
+##### SpawnerBubaku File:
+
 ```
 profiles/
 └── SpawnerBubaku/
-    └── SpawnerBubaku.json
+    └── SpawnerBubakuV2.json
 ```
 ---
 
-## Download
+## Installation
 
-**[Download files (.zip) 🡥](https://github.com/hashimagg/mission/archive/refs/heads/main.zip)**
+#### 1. Download Mission Files
 
-**[Download areaflags.map 🡥](https://github.com/hashimagg/mission/raw/refs/heads/main/main.hashima/areaflags.map)**
+- **[Download all mission files (.zip) 🡥](https://github.com/hashimagg/mission/archive/refs/heads/main.zip)**
+- **[Download areaflags.map only 🡥](https://github.com/hashimagg/mission/raw/refs/heads/main/main.hashima/areaflags.map)**
 
-<small>Replace the areaflags.map inside `main.hashima`</small>
+#### 2. Extract and Copy
+
+- Extract the downloaded `.zip` file.
+- Copy the `main.hashima` folder to your DayZ server's `mpmissions` directory.
+- Replace the `areaflags.map` inside `main.hashima` with the downloaded version.
+
+---
 
 ## Server Setup
 
-#### Required Client Mods
+#### 1. Required Mods
 
-**[Hashima Islands 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371)**
+**Client Mods:**
+- **[Hashima Islands 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371)**
+- **[Hashima Islands Assets 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420)**
 
-**[Hashima Islands Assets 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420)**
+**Server Mod:**
+- **[SpawnerBubaku 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670)**
 
-#### Required Server Mod
+> **Note:** All players must have the client mods installed. The server must load both the client and server mods.
 
-**[SpawnerBubaku 🡥](https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670)**
-Follow the instructions on Steam Workshop.
+#### 2. SpawnerBubaku Setup
 
-Replace the file `SpawnerBubaku.json`.
+- Download and install SpawnerBubaku as per **[Steam Workshop instructions](https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670)**.
+- Replace the file `SpawnerBubakuV2.json` on your server with the one provided in this repository.
 
----
+#### 3. Startup Parameters
 
-## Server Customization Advise
+Example server start command (adjust paths as needed):
 
-Just wanted to give you a heads-up that Hashima Islands is still in its early development stages. I'm pretty stoked to introduce this new map to the Dayz Community, but it's a work in progress. So, it's a good idea to let you know that things might change as I continue to develop it. These changes could impact any custom stuff or gameplay tweaks you've made on your server.
+```sh
+./DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=profiles -mod=@HashimaAssets;@Hashima;@HashimaServer -serverMod=@SpawnerBubaku -mission=main.hashima
+```
 
-On another note, if you're thinking about shaking things up and adding new Points of Interest (POIs) to your server, I'd suggest focusing on the ocean. Unlike the land, which might get a facelift during development, the ocean is a pretty stable part of the map. So, building custom content and new POIs in the ocean can keep your server mods compatible with future updates to Hashima Islands.
-
----
-
-## Contribute
-
-If you want to contribute, feel free by open an **[Issue](https://github.com/hashimagg/mission/issues)** and/or **[Pull Request](https://github.com/hashimagg/mission/pulls)**.
+`-mod` should include all required client mods.
+`-serverMod` should include SpawnerBubaku.
+`-mission` should point to the `main.hashima` folder.
 
 ---
 
@@ -168,7 +184,5 @@ If you want to contribute, feel free by open an **[Issue](https://github.com/has
 Hashima Islands is based on real history and real terrains. However, some aspects of the content have been fictionalized for the purposes of gameplay. I do not claim ownership over any copyrighted material that may be present in Hashima Islands. All copyrighted material belongs to their respective owners. This mod is intended for personal and non-commercial use only. I'm not responsible for any damage that may occur to your game while using this mod. Use at your own risk.
 
 ---
-
-<small>
 
 **[HASHIMA.GG](https://hashima.gg)** — **[Join the Discord](https://discord.gg/Uap8rwekfA)**
